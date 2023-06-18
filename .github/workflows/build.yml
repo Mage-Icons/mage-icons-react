@@ -1,0 +1,22 @@
+name: Build icons and update prod website
+on:
+  push:
+    branches: 
+      - main
+
+jobs:
+  dispatch:
+    name: Dispatch
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        repo: 
+          - Mage-Icons/mage-icons-website
+    timeout-minutes: 5
+    steps:
+      - name: Dispatch to Prod Workflow
+        run: |
+            curl -H "Accept: application/vnd.github.everest-preview+json" \
+            -H "Authorization: token ${{ secrets.WEBSITE_BUILD_TRIGGER_PAT }}" \
+            --request POST \
+            --data '{"event_type": "prod_trigger"}' https://api.github.com/repos/${{ matrix.repo }}/dispatches

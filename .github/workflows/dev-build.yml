@@ -1,0 +1,22 @@
+name: Build icons and update dev website
+on:
+  push:
+    branches: 
+      - dev
+
+jobs:
+  dispatch:
+    name: Dispatch
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        repo: 
+          - Mage-Icons/mage-icons-website
+    timeout-minutes: 5
+    steps:
+      - name: Dispatch to Dev Workflow
+        run: |
+            curl -H "Accept: application/vnd.github.everest-preview+json" \
+            -H "Authorization: token ${{ secrets.WEBSITE_BUILD_TRIGGER_PAT }}" \
+            --request POST \
+            --data '{"event_type": "dev_trigger"}' https://api.github.com/repos/${{ matrix.repo }}/dispatches
