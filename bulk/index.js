@@ -537,12 +537,6 @@ Object.defineProperty(exports, "DivideSquareIcon", {
     return _DivideSquareIcon.default;
   }
 });
-Object.defineProperty(exports, "DotMenuIcon", {
-  enumerable: true,
-  get: function get() {
-    return _DotMenuIcon.default;
-  }
-});
 Object.defineProperty(exports, "DownloadIcon", {
   enumerable: true,
   get: function get() {
@@ -1247,7 +1241,6 @@ Object.defineProperty(exports, "ZoomOutIcon", {
 });
 var _HeartIcon = _interopRequireDefault(require("./HeartIcon"));
 var _CreditCardIcon = _interopRequireDefault(require("./CreditCardIcon"));
-var _DotMenuIcon = _interopRequireDefault(require("./DotMenuIcon"));
 var _HamburgerMenuIcon = _interopRequireDefault(require("./HamburgerMenuIcon"));
 var _UserIcon = _interopRequireDefault(require("./UserIcon"));
 var _UserCircleIcon = _interopRequireDefault(require("./UserCircleIcon"));
