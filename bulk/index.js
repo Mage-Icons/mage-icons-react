@@ -1071,6 +1071,12 @@ Object.defineProperty(exports, "ReverseRefreshIcon", {
     return _ReverseRefreshIcon.default;
   }
 });
+Object.defineProperty(exports, "SearchIcon", {
+  enumerable: true,
+  get: function get() {
+    return _SearchIcon.default;
+  }
+});
 Object.defineProperty(exports, "Server2Icon", {
   enumerable: true,
   get: function get() {
@@ -1247,6 +1253,7 @@ Object.defineProperty(exports, "ZoomOutIcon", {
 });
 var _HeartIcon = _interopRequireDefault(require("./HeartIcon"));
 var _CreditCardIcon = _interopRequireDefault(require("./CreditCardIcon"));
+var _SearchIcon = _interopRequireDefault(require("./SearchIcon"));
 var _DotMenuIcon = _interopRequireDefault(require("./DotMenuIcon"));
 var _HamburgerMenuIcon = _interopRequireDefault(require("./HamburgerMenuIcon"));
 var _UserIcon = _interopRequireDefault(require("./UserIcon"));
