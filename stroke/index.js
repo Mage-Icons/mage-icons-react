@@ -267,6 +267,12 @@ Object.defineProperty(exports, "ArrowsAllDirectionIcon", {
     return _ArrowsAllDirectionIcon.default;
   }
 });
+Object.defineProperty(exports, "AttachmentIcon", {
+  enumerable: true,
+  get: function get() {
+    return _AttachmentIcon.default;
+  }
+});
 Object.defineProperty(exports, "BookmarkIcon", {
   enumerable: true,
   get: function get() {
@@ -429,6 +435,18 @@ Object.defineProperty(exports, "ClockIcon", {
     return _ClockIcon.default;
   }
 });
+Object.defineProperty(exports, "ClosedIcon", {
+  enumerable: true,
+  get: function get() {
+    return _ClosedIcon.default;
+  }
+});
+Object.defineProperty(exports, "CopyIcon", {
+  enumerable: true,
+  get: function get() {
+    return _CopyIcon.default;
+  }
+});
 Object.defineProperty(exports, "CreditCardIcon", {
   enumerable: true,
   get: function get() {
@@ -517,6 +535,12 @@ Object.defineProperty(exports, "DirectionUpRightIcon", {
   enumerable: true,
   get: function get() {
     return _DirectionUpRightIcon.default;
+  }
+});
+Object.defineProperty(exports, "DislikeIcon", {
+  enumerable: true,
+  get: function get() {
+    return _DislikeIcon.default;
   }
 });
 Object.defineProperty(exports, "DivideCircleIcon", {
@@ -615,10 +639,82 @@ Object.defineProperty(exports, "FastForwardIcon", {
     return _FastForwardIcon.default;
   }
 });
+Object.defineProperty(exports, "FileAddIcon", {
+  enumerable: true,
+  get: function get() {
+    return _FileAddIcon.default;
+  }
+});
+Object.defineProperty(exports, "FileCheckIcon", {
+  enumerable: true,
+  get: function get() {
+    return _FileCheckIcon.default;
+  }
+});
+Object.defineProperty(exports, "FileCrossIcon", {
+  enumerable: true,
+  get: function get() {
+    return _FileCrossIcon.default;
+  }
+});
+Object.defineProperty(exports, "FileDashIcon", {
+  enumerable: true,
+  get: function get() {
+    return _FileDashIcon.default;
+  }
+});
+Object.defineProperty(exports, "FileDownloadIcon", {
+  enumerable: true,
+  get: function get() {
+    return _FileDownloadIcon.default;
+  }
+});
+Object.defineProperty(exports, "FileIcon", {
+  enumerable: true,
+  get: function get() {
+    return _FileIcon.default;
+  }
+});
+Object.defineProperty(exports, "FileQuestionMarkIcon", {
+  enumerable: true,
+  get: function get() {
+    return _FileQuestionMarkIcon.default;
+  }
+});
+Object.defineProperty(exports, "FileSubtractIcon", {
+  enumerable: true,
+  get: function get() {
+    return _FileSubtractIcon.default;
+  }
+});
+Object.defineProperty(exports, "FileUploadIcon", {
+  enumerable: true,
+  get: function get() {
+    return _FileUploadIcon.default;
+  }
+});
 Object.defineProperty(exports, "FilesIcon", {
   enumerable: true,
   get: function get() {
     return _FilesIcon.default;
+  }
+});
+Object.defineProperty(exports, "Filter2Icon", {
+  enumerable: true,
+  get: function get() {
+    return _Filter2Icon.default;
+  }
+});
+Object.defineProperty(exports, "FilterIcon", {
+  enumerable: true,
+  get: function get() {
+    return _FilterIcon.default;
+  }
+});
+Object.defineProperty(exports, "FlagIcon", {
+  enumerable: true,
+  get: function get() {
+    return _FlagIcon.default;
   }
 });
 Object.defineProperty(exports, "Folder2Icon", {
@@ -693,6 +789,18 @@ Object.defineProperty(exports, "HorizontalChartIcon", {
     return _HorizontalChartIcon.default;
   }
 });
+Object.defineProperty(exports, "ImageIcon", {
+  enumerable: true,
+  get: function get() {
+    return _ImageIcon.default;
+  }
+});
+Object.defineProperty(exports, "InboxIcon", {
+  enumerable: true,
+  get: function get() {
+    return _InboxIcon.default;
+  }
+});
 Object.defineProperty(exports, "InfoCircleIcon", {
   enumerable: true,
   get: function get() {
@@ -705,10 +813,34 @@ Object.defineProperty(exports, "InfoSquareIcon", {
     return _InfoSquareIcon.default;
   }
 });
+Object.defineProperty(exports, "KeyboardIcon", {
+  enumerable: true,
+  get: function get() {
+    return _KeyboardIcon.default;
+  }
+});
+Object.defineProperty(exports, "LaptopIcon", {
+  enumerable: true,
+  get: function get() {
+    return _LaptopIcon.default;
+  }
+});
 Object.defineProperty(exports, "LightModeIcon", {
   enumerable: true,
   get: function get() {
     return _LightModeIcon.default;
+  }
+});
+Object.defineProperty(exports, "LikeIcon", {
+  enumerable: true,
+  get: function get() {
+    return _LikeIcon.default;
+  }
+});
+Object.defineProperty(exports, "LinkIcon", {
+  enumerable: true,
+  get: function get() {
+    return _LinkIcon.default;
   }
 });
 Object.defineProperty(exports, "LocationIcon", {
@@ -771,6 +903,42 @@ Object.defineProperty(exports, "MessageQuestionMarkIcon", {
     return _MessageQuestionMarkIcon.default;
   }
 });
+Object.defineProperty(exports, "MessageRoundedDashIcon", {
+  enumerable: true,
+  get: function get() {
+    return _MessageRoundedDashIcon.default;
+  }
+});
+Object.defineProperty(exports, "MessageRoundedDotsIcon", {
+  enumerable: true,
+  get: function get() {
+    return _MessageRoundedDotsIcon.default;
+  }
+});
+Object.defineProperty(exports, "MessageRoundedIcon", {
+  enumerable: true,
+  get: function get() {
+    return _MessageRoundedIcon.default;
+  }
+});
+Object.defineProperty(exports, "MessageRoundedInfoIcon", {
+  enumerable: true,
+  get: function get() {
+    return _MessageRoundedInfoIcon.default;
+  }
+});
+Object.defineProperty(exports, "MessageRoundedPlusIcon", {
+  enumerable: true,
+  get: function get() {
+    return _MessageRoundedPlusIcon.default;
+  }
+});
+Object.defineProperty(exports, "MessageRoundedQuestionMarkIcon", {
+  enumerable: true,
+  get: function get() {
+    return _MessageRoundedQuestionMarkIcon.default;
+  }
+});
 Object.defineProperty(exports, "MessageSubtractIcon", {
   enumerable: true,
   get: function get() {
@@ -819,6 +987,12 @@ Object.defineProperty(exports, "MinusSquareIcon", {
     return _MinusSquareIcon.default;
   }
 });
+Object.defineProperty(exports, "MobileIcon", {
+  enumerable: true,
+  get: function get() {
+    return _MobileIcon.default;
+  }
+});
 Object.defineProperty(exports, "MoreHorizontalCircleIcon", {
   enumerable: true,
   get: function get() {
@@ -853,6 +1027,12 @@ Object.defineProperty(exports, "MoreVerticalSquareIcon", {
   enumerable: true,
   get: function get() {
     return _MoreVerticalSquareIcon.default;
+  }
+});
+Object.defineProperty(exports, "MouseIcon", {
+  enumerable: true,
+  get: function get() {
+    return _MouseIcon.default;
   }
 });
 Object.defineProperty(exports, "MutedIcon", {
@@ -1161,6 +1341,12 @@ Object.defineProperty(exports, "TrashCIcon", {
     return _TrashCIcon.default;
   }
 });
+Object.defineProperty(exports, "TvIcon", {
+  enumerable: true,
+  get: function get() {
+    return _TvIcon.default;
+  }
+});
 Object.defineProperty(exports, "UnlockedIcon", {
   enumerable: true,
   get: function get() {
@@ -1459,4 +1645,35 @@ var _VolumeIcon = _interopRequireDefault(require("./VolumeIcon"));
 var _WifiIcon = _interopRequireDefault(require("./WifiIcon"));
 var _ZoomInIcon = _interopRequireDefault(require("./ZoomInIcon"));
 var _ZoomOutIcon = _interopRequireDefault(require("./ZoomOutIcon"));
+var _AttachmentIcon = _interopRequireDefault(require("./AttachmentIcon"));
+var _ClosedIcon = _interopRequireDefault(require("./ClosedIcon"));
+var _CopyIcon = _interopRequireDefault(require("./CopyIcon"));
+var _DislikeIcon = _interopRequireDefault(require("./DislikeIcon"));
+var _FileAddIcon = _interopRequireDefault(require("./FileAddIcon"));
+var _FileCheckIcon = _interopRequireDefault(require("./FileCheckIcon"));
+var _FileCrossIcon = _interopRequireDefault(require("./FileCrossIcon"));
+var _FileDashIcon = _interopRequireDefault(require("./FileDashIcon"));
+var _FileDownloadIcon = _interopRequireDefault(require("./FileDownloadIcon"));
+var _FileQuestionMarkIcon = _interopRequireDefault(require("./FileQuestionMarkIcon"));
+var _FileSubtractIcon = _interopRequireDefault(require("./FileSubtractIcon"));
+var _FileUploadIcon = _interopRequireDefault(require("./FileUploadIcon"));
+var _FileIcon = _interopRequireDefault(require("./FileIcon"));
+var _Filter2Icon = _interopRequireDefault(require("./Filter2Icon"));
+var _FilterIcon = _interopRequireDefault(require("./FilterIcon"));
+var _FlagIcon = _interopRequireDefault(require("./FlagIcon"));
+var _ImageIcon = _interopRequireDefault(require("./ImageIcon"));
+var _InboxIcon = _interopRequireDefault(require("./InboxIcon"));
+var _KeyboardIcon = _interopRequireDefault(require("./KeyboardIcon"));
+var _LaptopIcon = _interopRequireDefault(require("./LaptopIcon"));
+var _LikeIcon = _interopRequireDefault(require("./LikeIcon"));
+var _LinkIcon = _interopRequireDefault(require("./LinkIcon"));
+var _MessageRoundedDashIcon = _interopRequireDefault(require("./MessageRoundedDashIcon"));
+var _MessageRoundedDotsIcon = _interopRequireDefault(require("./MessageRoundedDotsIcon"));
+var _MessageRoundedInfoIcon = _interopRequireDefault(require("./MessageRoundedInfoIcon"));
+var _MessageRoundedPlusIcon = _interopRequireDefault(require("./MessageRoundedPlusIcon"));
+var _MessageRoundedQuestionMarkIcon = _interopRequireDefault(require("./MessageRoundedQuestionMarkIcon"));
+var _MessageRoundedIcon = _interopRequireDefault(require("./MessageRoundedIcon"));
+var _MobileIcon = _interopRequireDefault(require("./MobileIcon"));
+var _MouseIcon = _interopRequireDefault(require("./MouseIcon"));
+var _TvIcon = _interopRequireDefault(require("./TvIcon"));
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
