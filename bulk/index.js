@@ -117,6 +117,18 @@ Object.defineProperty(exports, "ArrowUpSquareIcon", {
     return _ArrowUpSquareIcon.default;
   }
 });
+Object.defineProperty(exports, "BookIcon", {
+  enumerable: true,
+  get: function get() {
+    return _BookIcon.default;
+  }
+});
+Object.defineProperty(exports, "BookTextIcon", {
+  enumerable: true,
+  get: function get() {
+    return _BookTextIcon.default;
+  }
+});
 Object.defineProperty(exports, "BookmarkIcon", {
   enumerable: true,
   get: function get() {
@@ -169,6 +181,12 @@ Object.defineProperty(exports, "ChartIcon", {
   enumerable: true,
   get: function get() {
     return _ChartIcon.default;
+  }
+});
+Object.defineProperty(exports, "ChatIcon", {
+  enumerable: true,
+  get: function get() {
+    return _ChatIcon.default;
   }
 });
 Object.defineProperty(exports, "CheckCircleIcon", {
@@ -513,6 +531,12 @@ Object.defineProperty(exports, "FolderOpenIcon", {
     return _FolderOpenIcon.default;
   }
 });
+Object.defineProperty(exports, "GlobeIcon", {
+  enumerable: true,
+  get: function get() {
+    return _GlobeIcon.default;
+  }
+});
 Object.defineProperty(exports, "HeadphonesIcon", {
   enumerable: true,
   get: function get() {
@@ -523,6 +547,24 @@ Object.defineProperty(exports, "HeartIcon", {
   enumerable: true,
   get: function get() {
     return _HeartIcon.default;
+  }
+});
+Object.defineProperty(exports, "Home1Icon", {
+  enumerable: true,
+  get: function get() {
+    return _Home1Icon.default;
+  }
+});
+Object.defineProperty(exports, "Home2Icon", {
+  enumerable: true,
+  get: function get() {
+    return _Home2Icon.default;
+  }
+});
+Object.defineProperty(exports, "Home3Icon", {
+  enumerable: true,
+  get: function get() {
+    return _Home3Icon.default;
   }
 });
 Object.defineProperty(exports, "HomeIcon", {
@@ -933,6 +975,12 @@ Object.defineProperty(exports, "ShareIcon", {
     return _ShareIcon.default;
   }
 });
+Object.defineProperty(exports, "ShopIcon", {
+  enumerable: true,
+  get: function get() {
+    return _ShopIcon.default;
+  }
+});
 Object.defineProperty(exports, "ShoppingBagIcon", {
   enumerable: true,
   get: function get() {
@@ -943,6 +991,12 @@ Object.defineProperty(exports, "ShoppingCartIcon", {
   enumerable: true,
   get: function get() {
     return _ShoppingCartIcon.default;
+  }
+});
+Object.defineProperty(exports, "StackIcon", {
+  enumerable: true,
+  get: function get() {
+    return _StackIcon.default;
   }
 });
 Object.defineProperty(exports, "StarIcon", {
@@ -967,6 +1021,12 @@ Object.defineProperty(exports, "StopSquareIcon", {
   enumerable: true,
   get: function get() {
     return _StopSquareIcon.default;
+  }
+});
+Object.defineProperty(exports, "SupportTubeIcon", {
+  enumerable: true,
+  get: function get() {
+    return _SupportTubeIcon.default;
   }
 });
 Object.defineProperty(exports, "TimerIcon", {
@@ -1249,4 +1309,14 @@ var _MessageRoundedIcon = _interopRequireDefault(require("./MessageRoundedIcon")
 var _MobileIcon = _interopRequireDefault(require("./MobileIcon"));
 var _MouseIcon = _interopRequireDefault(require("./MouseIcon"));
 var _TvIcon = _interopRequireDefault(require("./TvIcon"));
+var _BookIcon = _interopRequireDefault(require("./BookIcon"));
+var _BookTextIcon = _interopRequireDefault(require("./BookTextIcon"));
+var _ChatIcon = _interopRequireDefault(require("./ChatIcon"));
+var _GlobeIcon = _interopRequireDefault(require("./GlobeIcon"));
+var _Home1Icon = _interopRequireDefault(require("./Home1Icon"));
+var _Home2Icon = _interopRequireDefault(require("./Home2Icon"));
+var _Home3Icon = _interopRequireDefault(require("./Home3Icon"));
+var _ShopIcon = _interopRequireDefault(require("./ShopIcon"));
+var _StackIcon = _interopRequireDefault(require("./StackIcon"));
+var _SupportTubeIcon = _interopRequireDefault(require("./SupportTubeIcon"));
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
