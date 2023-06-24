@@ -7,7 +7,7 @@
     "build": "rm -rf dist && rm -rf stroke && rm -rf bulk && NODE_ENV=production babel src/ --out-dir ./ --copy-files && rm -rf src"
   },
   "repository": "git@github.com:Mage-Icons/mage-icons-react.git",
-  "author": "Mage Icons (https://mage-icons.web.app/)",
+  "author": "Mage Icons (https://mageicons.com/)",
   "license": "Apache-2.0",
   "dependencies": {
     "react": "^18.2.0"
