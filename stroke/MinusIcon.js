@@ -18,7 +18,7 @@ const MinusIcon = _ref => {
     xmlns: "http://www.w3.org/2000/svg",
     className: className
   }, /*#__PURE__*/_react.default.createElement("path", {
-    d: "M19.1954 12H4.80457",
+    d: "M19.5 12H4.5",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-linecap": "round",

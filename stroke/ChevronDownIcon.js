@@ -18,7 +18,7 @@ const ChevronDownIcon = _ref => {
     xmlns: "http://www.w3.org/2000/svg",
     className: className
   }, /*#__PURE__*/_react.default.createElement("path", {
-    d: "M4.99518 9.00272L10.505 14.5126C10.8201 14.8232 11.2448 14.9973 11.6873 14.9973C12.1298 14.9973 12.5545 14.8232 12.8696 14.5126L18.3794 9.00272",
+    d: "M4 8.41693L10.5866 15.0037C10.9633 15.375 11.471 15.5831 12 15.5831C12.529 15.5831 13.0367 15.375 13.4134 15.0037L20 8.41693",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-linecap": "round",

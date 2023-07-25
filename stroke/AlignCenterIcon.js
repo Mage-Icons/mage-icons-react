@@ -18,19 +18,19 @@ const AlignCenterIcon = _ref => {
     xmlns: "http://www.w3.org/2000/svg",
     className: className
   }, /*#__PURE__*/_react.default.createElement("path", {
-    d: "M7 12H17",
+    d: "M6.28571 12H17.7143",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-miterlimit": "10",
     "stroke-linecap": "round"
   }), /*#__PURE__*/_react.default.createElement("path", {
-    d: "M10 17H14",
+    d: "M9.71429 17.7143H14.2857",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-miterlimit": "10",
     "stroke-linecap": "round"
   }), /*#__PURE__*/_react.default.createElement("path", {
-    d: "M5 7H19",
+    d: "M4 6.28571H20",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-miterlimit": "10",
