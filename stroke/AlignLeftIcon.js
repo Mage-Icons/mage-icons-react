@@ -18,19 +18,19 @@ const AlignLeftIcon = _ref => {
     xmlns: "http://www.w3.org/2000/svg",
     className: className
   }, /*#__PURE__*/_react.default.createElement("path", {
-    d: "M6 12H13",
+    d: "M4.5 12H12.5",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-miterlimit": "10",
     "stroke-linecap": "round"
   }), /*#__PURE__*/_react.default.createElement("path", {
-    d: "M6 17H18",
+    d: "M4.5 18.25H19.5",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-miterlimit": "10",
     "stroke-linecap": "round"
   }), /*#__PURE__*/_react.default.createElement("path", {
-    d: "M6 7H18",
+    d: "M4.5 5.75H19.5",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-miterlimit": "10",

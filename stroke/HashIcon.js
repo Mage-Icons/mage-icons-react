@@ -18,25 +18,25 @@ const HashIcon = _ref => {
     xmlns: "http://www.w3.org/2000/svg",
     className: className
   }, /*#__PURE__*/_react.default.createElement("path", {
-    d: "M7.46167 19.9875L9.73085 4.01245",
+    d: "M6.88644 21L9.44326 3",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-linecap": "round",
     "stroke-linejoin": "round"
   }), /*#__PURE__*/_react.default.createElement("path", {
-    d: "M14.2692 19.9875L16.5384 4.01245",
+    d: "M14.5569 21L17.1137 3",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-linecap": "round",
     "stroke-linejoin": "round"
   }), /*#__PURE__*/_react.default.createElement("path", {
-    d: "M4.01245 9.20892H19.9875",
+    d: "M3 8.8551H21",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-linecap": "round",
     "stroke-linejoin": "round"
   }), /*#__PURE__*/_react.default.createElement("path", {
-    d: "M4.01245 14.8819H19.9875",
+    d: "M3 15.2472H21",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-linecap": "round",

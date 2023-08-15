@@ -18,13 +18,13 @@ const SearchIcon = _ref => {
     xmlns: "http://www.w3.org/2000/svg",
     className: className
   }, /*#__PURE__*/_react.default.createElement("path", {
-    d: "M10.1311 17.5605C13.9581 17.5605 17.0605 14.4581 17.0605 10.6311C17.0605 6.80415 13.9581 3.70177 10.1311 3.70177C6.30417 3.70177 3.20178 6.80415 3.20178 10.6311C3.20178 14.4581 6.30417 17.5605 10.1311 17.5605Z",
+    d: "M10.2438 17.7377C14.3825 17.7377 17.7377 14.3825 17.7377 10.2438C17.7377 6.10511 14.3825 2.75 10.2438 2.75C6.10511 2.75 2.75 6.10511 2.75 10.2438C2.75 14.3825 6.10511 17.7377 10.2438 17.7377Z",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-linecap": "round",
     "stroke-linejoin": "round"
   }), /*#__PURE__*/_react.default.createElement("path", {
-    d: "M15.0488 15.5488L20.3083 20.8082",
+    d: "M15.5621 15.5621L21.25 21.25",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-linecap": "round",

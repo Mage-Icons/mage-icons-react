@@ -18,25 +18,25 @@ const ZoomInIcon = _ref => {
     xmlns: "http://www.w3.org/2000/svg",
     className: className
   }, /*#__PURE__*/_react.default.createElement("path", {
-    d: "M10.1331 17.5539C13.9553 17.5539 17.0538 14.4553 17.0538 10.6331C17.0538 6.81097 13.9553 3.71246 10.1331 3.71246C6.31091 3.71246 3.2124 6.81097 3.2124 10.6331C3.2124 14.4553 6.31091 17.5539 10.1331 17.5539Z",
+    d: "M10.2438 17.7377C14.3825 17.7377 17.7377 14.3825 17.7377 10.2438C17.7377 6.10512 14.3825 2.75 10.2438 2.75C6.10512 2.75 2.75 6.10512 2.75 10.2438C2.75 14.3825 6.10512 17.7377 10.2438 17.7377Z",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-linecap": "round",
     "stroke-linejoin": "round"
   }), /*#__PURE__*/_react.default.createElement("path", {
-    d: "M15.0447 15.5447L20.2976 20.7976",
+    d: "M15.5621 15.5621L21.25 21.25",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-linecap": "round",
     "stroke-linejoin": "round"
   }), /*#__PURE__*/_react.default.createElement("path", {
-    d: "M10.1332 6.93982V14.3265",
+    d: "M10.2439 6.24466V14.2431",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-linecap": "round",
     "stroke-linejoin": "round"
   }), /*#__PURE__*/_react.default.createElement("path", {
-    d: "M13.8265 10.6332H6.43982",
+    d: "M14.243 10.2439H6.24463",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-linecap": "round",

@@ -18,7 +18,7 @@ const StopIcon = _ref => {
     xmlns: "http://www.w3.org/2000/svg",
     className: className
   }, /*#__PURE__*/_react.default.createElement("path", {
-    d: "M16.5 6H7.5C6.67157 6 6 6.67157 6 7.5V16.5C6 17.3284 6.67157 18 7.5 18H16.5C17.3284 18 18 17.3284 18 16.5V7.5C18 6.67157 17.3284 6 16.5 6Z",
+    d: "M17.25 5H6.75C5.7835 5 5 5.7835 5 6.75V17.25C5 18.2165 5.7835 19 6.75 19H17.25C18.2165 19 19 18.2165 19 17.25V6.75C19 5.7835 18.2165 5 17.25 5Z",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-linecap": "round",

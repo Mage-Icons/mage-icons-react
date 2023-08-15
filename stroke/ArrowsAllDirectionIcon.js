@@ -18,37 +18,37 @@ const ArrowsAllDirectionIcon = _ref => {
     xmlns: "http://www.w3.org/2000/svg",
     className: className
   }, /*#__PURE__*/_react.default.createElement("path", {
-    d: "M21 12H3",
+    d: "M21.5 12H2.5",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-linecap": "round",
     "stroke-linejoin": "round"
   }), /*#__PURE__*/_react.default.createElement("path", {
-    d: "M18 15L21 12L18 9",
+    d: "M18.3333 15.1666L21.5 12L18.3333 8.83331",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-linecap": "round",
     "stroke-linejoin": "round"
   }), /*#__PURE__*/_react.default.createElement("path", {
-    d: "M6 15L3 12L6 9",
+    d: "M5.66667 15.1666L2.5 12L5.66667 8.83331",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-linecap": "round",
     "stroke-linejoin": "round"
   }), /*#__PURE__*/_react.default.createElement("path", {
-    d: "M9 18L12 21L15 18",
+    d: "M8.83334 18.3333L12 21.5L15.1667 18.3333",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-linecap": "round",
     "stroke-linejoin": "round"
   }), /*#__PURE__*/_react.default.createElement("path", {
-    d: "M9 6L12 3L15 6",
+    d: "M8.83334 5.66667L12 2.5L15.1667 5.66667",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-linecap": "round",
     "stroke-linejoin": "round"
   }), /*#__PURE__*/_react.default.createElement("path", {
-    d: "M12 21V3",
+    d: "M12 21.5V2.5",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-linecap": "round",

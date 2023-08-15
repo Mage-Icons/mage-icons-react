@@ -18,19 +18,19 @@ const MouseIcon = _ref => {
     xmlns: "http://www.w3.org/2000/svg",
     className: className
   }, /*#__PURE__*/_react.default.createElement("path", {
-    d: "M17.5505 9.42981C17.5505 6.22626 14.9535 3.62927 11.75 3.62927C8.54645 3.62927 5.94946 6.22626 5.94946 9.42981V14.0702C5.94946 17.2738 8.54645 19.8708 11.75 19.8708C14.9535 19.8708 17.5505 17.2738 17.5505 14.0702V9.42981Z",
+    d: "M18.6071 9.35714C18.6071 5.70812 15.649 2.75 12 2.75C8.35097 2.75 5.39285 5.70812 5.39285 9.35714V14.6429C5.39285 18.2919 8.35097 21.25 12 21.25C15.649 21.25 18.6071 18.2919 18.6071 14.6429V9.35714Z",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-linecap": "round",
     "stroke-linejoin": "round"
   }), /*#__PURE__*/_react.default.createElement("path", {
-    d: "M11.75 10.5899V3.62927",
+    d: "M12 10.6786V2.75",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-linecap": "round",
     "stroke-linejoin": "round"
   }), /*#__PURE__*/_react.default.createElement("path", {
-    d: "M5.94946 10.5899H17.5505",
+    d: "M5.39285 10.6786H18.6071",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-linecap": "round",
