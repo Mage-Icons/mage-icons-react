@@ -255,6 +255,18 @@ Object.defineProperty(exports, "BellNotificationSquareIcon", {
     return _BellNotificationSquareIcon.default;
   }
 });
+Object.defineProperty(exports, "BookIcon", {
+  enumerable: true,
+  get: function get() {
+    return _BookIcon.default;
+  }
+});
+Object.defineProperty(exports, "BookTextIcon", {
+  enumerable: true,
+  get: function get() {
+    return _BookTextIcon.default;
+  }
+});
 Object.defineProperty(exports, "BookmarkIcon", {
   enumerable: true,
   get: function get() {
@@ -1884,6 +1896,8 @@ var _FileUploadIcon = _interopRequireDefault(require("./FileUploadIcon"));
 var _FileCheckIcon = _interopRequireDefault(require("./FileCheckIcon"));
 var _FileQuestionMarkIcon = _interopRequireDefault(require("./FileQuestionMarkIcon"));
 var _FileCrossIcon = _interopRequireDefault(require("./FileCrossIcon"));
+var _BookIcon = _interopRequireDefault(require("./BookIcon"));
+var _BookTextIcon = _interopRequireDefault(require("./BookTextIcon"));
 var _ArchiveBoxIcon = _interopRequireDefault(require("./ArchiveBoxIcon"));
 var _CopyIcon = _interopRequireDefault(require("./CopyIcon"));
 var _ExternalLinkIcon = _interopRequireDefault(require("./ExternalLinkIcon"));

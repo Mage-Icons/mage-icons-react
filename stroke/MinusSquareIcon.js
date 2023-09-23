@@ -18,17 +18,19 @@ const MinusSquareIcon = _ref => {
     xmlns: "http://www.w3.org/2000/svg",
     className: className
   }, /*#__PURE__*/_react.default.createElement("path", {
-    d: "M16.8819 12H7.11806",
+    d: "M16.8821 12H7.11816",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-linecap": "round",
     "stroke-linejoin": "round"
-  }), /*#__PURE__*/_react.default.createElement("path", {
-    d: "M16.5839 2.75H7.41611C4.83909 2.75 2.75 4.83909 2.75 7.41611V16.5839C2.75 19.1609 4.83909 21.25 7.41611 21.25H16.5839C19.1609 21.25 21.25 19.1609 21.25 16.5839V7.41611C21.25 4.83909 19.1609 2.75 16.5839 2.75Z",
+  }), /*#__PURE__*/_react.default.createElement("rect", {
+    x: "2.75",
+    y: "2.75",
+    width: "18.5",
+    height: "18.5",
+    rx: "6",
     stroke: "currentColor",
-    "stroke-width": "1.5",
-    "stroke-linecap": "round",
-    "stroke-linejoin": "round"
+    "stroke-width": "1.5"
   }));
 };
 var _default = MinusSquareIcon;

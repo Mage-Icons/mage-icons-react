@@ -18,23 +18,25 @@ const ArrowDownSquareIcon = _ref => {
     xmlns: "http://www.w3.org/2000/svg",
     className: className
   }, /*#__PURE__*/_react.default.createElement("path", {
-    d: "M12 17.1902V6.39856",
+    d: "M12 17.1901V6.39844",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-miterlimit": "10",
     "stroke-linecap": "round"
   }), /*#__PURE__*/_react.default.createElement("path", {
-    d: "M6.86111 12.4625L11.2703 16.882C11.3659 16.9783 11.4795 17.0547 11.6047 17.1069C11.73 17.1592 11.8643 17.186 12 17.186C12.1357 17.186 12.27 17.1592 12.3953 17.1069C12.5205 17.0547 12.6341 16.9783 12.7297 16.882L17.1389 12.4625",
+    d: "M6.86133 12.4624L11.2705 16.8818C11.3661 16.9781 11.4798 17.0546 11.6049 17.1068C11.7302 17.159 11.8646 17.1859 12.0002 17.1859C12.1359 17.1859 12.2702 17.159 12.3955 17.1068C12.5207 17.0546 12.6344 16.9781 12.7299 16.8818L17.1391 12.4624",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-linecap": "round",
     "stroke-linejoin": "round"
-  }), /*#__PURE__*/_react.default.createElement("path", {
-    d: "M16.5839 2.75H7.41611C4.83909 2.75 2.75 4.83909 2.75 7.41611V16.5839C2.75 19.1609 4.83909 21.25 7.41611 21.25H16.5839C19.1609 21.25 21.25 19.1609 21.25 16.5839V7.41611C21.25 4.83909 19.1609 2.75 16.5839 2.75Z",
+  }), /*#__PURE__*/_react.default.createElement("rect", {
+    x: "2.75",
+    y: "2.75",
+    width: "18.5",
+    height: "18.5",
+    rx: "6",
     stroke: "currentColor",
-    "stroke-width": "1.5",
-    "stroke-linecap": "round",
-    "stroke-linejoin": "round"
+    "stroke-width": "1.5"
   }));
 };
 var _default = ArrowDownSquareIcon;
