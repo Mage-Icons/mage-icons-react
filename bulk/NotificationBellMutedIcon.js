@@ -6,7 +6,7 @@ Object.defineProperty(exports, "__esModule", {
 exports.default = void 0;
 var _react = _interopRequireDefault(require("react"));
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
-const BellNotificationMutedIcon = _ref => {
+const NotificationBellMutedIcon = _ref => {
   let {
     className
   } = _ref;
@@ -25,5 +25,5 @@ const BellNotificationMutedIcon = _ref => {
     fill: "currentColor"
   }));
 };
-var _default = BellNotificationMutedIcon;
+var _default = NotificationBellMutedIcon;
 exports.default = _default;

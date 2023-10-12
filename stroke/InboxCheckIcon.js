@@ -6,7 +6,7 @@ Object.defineProperty(exports, "__esModule", {
 exports.default = void 0;
 var _react = _interopRequireDefault(require("react"));
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
-const InboxIcon = _ref => {
+const InboxCheckIcon = _ref => {
   let {
     className
   } = _ref;
@@ -24,10 +24,17 @@ const InboxIcon = _ref => {
     "stroke-linecap": "round",
     "stroke-linejoin": "round"
   }), /*#__PURE__*/_react.default.createElement("path", {
-    d: "M15.25 2.75H8.75C5.43629 2.75 2.75 5.43629 2.75 8.75V15.25C2.75 18.5637 5.43629 21.25 8.75 21.25H15.25C18.5637 21.25 21.25 18.5637 21.25 15.25V8.75C21.25 5.43629 18.5637 2.75 15.25 2.75Z",
+    d: "M21.25 10.375V12V15.25C21.25 18.5637 18.5637 21.25 15.25 21.25H8.75C5.43629 21.25 2.75 18.5637 2.75 15.25V8.75C2.75 5.43629 5.43629 2.75 8.75 2.75H12H13.625",
     stroke: "currentColor",
-    "stroke-width": "1.5"
+    "stroke-width": "1.5",
+    "stroke-linecap": "round"
+  }), /*#__PURE__*/_react.default.createElement("path", {
+    d: "M16.25 5.58188L17.6571 6.98905C17.7066 7.03914 17.7656 7.07894 17.8306 7.10606C17.8956 7.13321 17.9653 7.1472 18.0357 7.1472C18.1062 7.1472 18.1759 7.13321 18.2409 7.10606C18.3058 7.07894 18.3648 7.03914 18.4143 6.98905L21.25 4.15332",
+    stroke: "currentColor",
+    "stroke-width": "1.5",
+    "stroke-linecap": "round",
+    "stroke-linejoin": "round"
   }));
 };
-var _default = InboxIcon;
+var _default = InboxCheckIcon;
 exports.default = _default;

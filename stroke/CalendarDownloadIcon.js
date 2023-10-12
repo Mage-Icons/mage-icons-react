@@ -6,7 +6,7 @@ Object.defineProperty(exports, "__esModule", {
 exports.default = void 0;
 var _react = _interopRequireDefault(require("react"));
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
-const Calendar3Icon = _ref => {
+const CalendarDownloadIcon = _ref => {
   let {
     className
   } = _ref;
@@ -24,6 +24,12 @@ const Calendar3Icon = _ref => {
     "stroke-linecap": "round",
     "stroke-linejoin": "round"
   }), /*#__PURE__*/_react.default.createElement("path", {
+    d: "M3 9.625H21",
+    stroke: "currentColor",
+    "stroke-width": "1.5",
+    "stroke-linecap": "round",
+    "stroke-linejoin": "round"
+  }), /*#__PURE__*/_react.default.createElement("path", {
     d: "M17 2.625V6.625",
     stroke: "currentColor",
     "stroke-width": "1.5",
@@ -36,24 +42,18 @@ const Calendar3Icon = _ref => {
     "stroke-linecap": "round",
     "stroke-linejoin": "round"
   }), /*#__PURE__*/_react.default.createElement("path", {
-    d: "M3.12 16.3615H20.88",
+    d: "M12.0001 17.4677L12.0001 12.4677",
     stroke: "currentColor",
     "stroke-width": "1.5",
-    "stroke-linecap": "round",
-    "stroke-linejoin": "round"
+    "stroke-miterlimit": "10",
+    "stroke-linecap": "round"
   }), /*#__PURE__*/_react.default.createElement("path", {
-    d: "M12 10.5147C12.8284 10.5147 13.5 9.84314 13.5 9.01471C13.5 8.18628 12.8284 7.51471 12 7.51471C11.1716 7.51471 10.5 8.18628 10.5 9.01471C10.5 9.84314 11.1716 10.5147 12 10.5147Z",
-    stroke: "currentColor",
-    "stroke-width": "1.5",
-    "stroke-linecap": "round",
-    "stroke-linejoin": "round"
-  }), /*#__PURE__*/_react.default.createElement("path", {
-    d: "M12 13.5147C12.8284 13.5147 13.5 12.8431 13.5 12.0147C13.5 11.1863 12.8284 10.5147 12 10.5147C11.1716 10.5147 10.5 11.1863 10.5 12.0147C10.5 12.8431 11.1716 13.5147 12 13.5147Z",
+    d: "M9.70709 15.3627L11.6744 17.33C11.717 17.373 11.7678 17.4071 11.8237 17.4304C11.8795 17.4537 11.9395 17.4657 12 17.4657C12.0605 17.4657 12.1205 17.4537 12.1764 17.4304C12.2323 17.4071 12.283 17.373 12.3256 17.33L14.2929 15.3627",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-linecap": "round",
     "stroke-linejoin": "round"
   }));
 };
-var _default = Calendar3Icon;
+var _default = CalendarDownloadIcon;
 exports.default = _default;

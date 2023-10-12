@@ -6,7 +6,7 @@ Object.defineProperty(exports, "__esModule", {
 exports.default = void 0;
 var _react = _interopRequireDefault(require("react"));
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
-const BellNotificationIcon = _ref => {
+const NotificationBellCheckIcon = _ref => {
   let {
     className
   } = _ref;
@@ -29,7 +29,13 @@ const BellNotificationIcon = _ref => {
     "stroke-width": "1.5",
     "stroke-linecap": "round",
     "stroke-linejoin": "round"
+  }), /*#__PURE__*/_react.default.createElement("path", {
+    d: "M9.50002 11.1975L10.9072 12.6047C10.9567 12.6547 11.0156 12.6945 11.0806 12.7217C11.1456 12.7488 11.2153 12.7628 11.2857 12.7628C11.3562 12.7628 11.4259 12.7488 11.4909 12.7217C11.5558 12.6945 11.6148 12.6547 11.6643 12.6047L14.5 9.76892",
+    stroke: "currentColor",
+    "stroke-width": "1.5",
+    "stroke-linecap": "round",
+    "stroke-linejoin": "round"
   }));
 };
-var _default = BellNotificationIcon;
+var _default = NotificationBellCheckIcon;
 exports.default = _default;

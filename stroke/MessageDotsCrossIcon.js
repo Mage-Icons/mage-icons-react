@@ -6,7 +6,7 @@ Object.defineProperty(exports, "__esModule", {
 exports.default = void 0;
 var _react = _interopRequireDefault(require("react"));
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
-const Calendar3Icon = _ref => {
+const MessageDotsCrossIcon = _ref => {
   let {
     className
   } = _ref;
@@ -18,42 +18,42 @@ const Calendar3Icon = _ref => {
     xmlns: "http://www.w3.org/2000/svg",
     className: className
   }, /*#__PURE__*/_react.default.createElement("path", {
-    d: "M17 4.625H7C4.79086 4.625 3 6.41586 3 8.625V17.375C3 19.5841 4.79086 21.375 7 21.375H17C19.2091 21.375 21 19.5841 21 17.375V8.625C21 6.41586 19.2091 4.625 17 4.625Z",
+    d: "M12 11.3383C12.3649 11.3383 12.6607 11.0425 12.6607 10.6776C12.6607 10.3127 12.3649 10.0168 12 10.0168C11.6351 10.0168 11.3393 10.3127 11.3393 10.6776C11.3393 11.0425 11.6351 11.3383 12 11.3383Z",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-linecap": "round",
     "stroke-linejoin": "round"
   }), /*#__PURE__*/_react.default.createElement("path", {
-    d: "M17 2.625V6.625",
+    d: "M16.625 11.3383C16.9899 11.3383 17.2857 11.0425 17.2857 10.6776C17.2857 10.3127 16.9899 10.0168 16.625 10.0168C16.2601 10.0168 15.9643 10.3127 15.9643 10.6776C15.9643 11.0425 16.2601 11.3383 16.625 11.3383Z",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-linecap": "round",
     "stroke-linejoin": "round"
   }), /*#__PURE__*/_react.default.createElement("path", {
-    d: "M7 2.625V6.625",
+    d: "M7.37501 11.3383C7.73991 11.3383 8.03572 11.0425 8.03572 10.6776C8.03572 10.3127 7.73991 10.0168 7.37501 10.0168C7.01011 10.0168 6.71429 10.3127 6.71429 10.6776C6.71429 11.0425 7.01011 11.3383 7.37501 11.3383Z",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-linecap": "round",
     "stroke-linejoin": "round"
   }), /*#__PURE__*/_react.default.createElement("path", {
-    d: "M3.12 16.3615H20.88",
+    d: "M21.25 10.94V14.11C21.2482 15.1628 20.8314 16.1725 20.09 16.92C19.7177 17.285 19.2801 17.5767 18.8 17.78C18.3201 17.9742 17.8077 18.076 17.29 18.08H14.64L12.46 20.26C12.3986 20.321 12.3277 20.3717 12.25 20.41C12.1708 20.443 12.0858 20.46 12 20.46C11.9142 20.46 11.8292 20.443 11.75 20.41C11.6723 20.3717 11.6014 20.321 11.54 20.26L9.36 18.08H6.71C5.66064 18.0756 4.65504 17.659 3.91 16.92C3.1686 16.1725 2.75179 15.1628 2.75 14.11V7.51001C2.75 6.44914 3.17143 5.43173 3.92157 4.68158C4.67172 3.93144 5.68913 3.51001 6.75 3.51001H13",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-linecap": "round",
     "stroke-linejoin": "round"
   }), /*#__PURE__*/_react.default.createElement("path", {
-    d: "M12 10.5147C12.8284 10.5147 13.5 9.84314 13.5 9.01471C13.5 8.18628 12.8284 7.51471 12 7.51471C11.1716 7.51471 10.5 8.18628 10.5 9.01471C10.5 9.84314 11.1716 10.5147 12 10.5147Z",
+    d: "M20.25 3.75L16.7502 7.24238",
     stroke: "currentColor",
     "stroke-width": "1.5",
-    "stroke-linecap": "round",
-    "stroke-linejoin": "round"
+    "stroke-miterlimit": "10",
+    "stroke-linecap": "round"
   }), /*#__PURE__*/_react.default.createElement("path", {
-    d: "M12 13.5147C12.8284 13.5147 13.5 12.8431 13.5 12.0147C13.5 11.1863 12.8284 10.5147 12 10.5147C11.1716 10.5147 10.5 11.1863 10.5 12.0147C10.5 12.8431 11.1716 13.5147 12 13.5147Z",
+    d: "M16.75 3.75763L20.2498 7.25",
     stroke: "currentColor",
     "stroke-width": "1.5",
-    "stroke-linecap": "round",
-    "stroke-linejoin": "round"
+    "stroke-miterlimit": "10",
+    "stroke-linecap": "round"
   }));
 };
-var _default = Calendar3Icon;
+var _default = MessageDotsCrossIcon;
 exports.default = _default;

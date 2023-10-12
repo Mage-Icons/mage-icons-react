@@ -6,7 +6,7 @@ Object.defineProperty(exports, "__esModule", {
 exports.default = void 0;
 var _react = _interopRequireDefault(require("react"));
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
-const InboxIcon = _ref => {
+const EmailNotificationIcon = _ref => {
   let {
     className
   } = _ref;
@@ -18,16 +18,24 @@ const InboxIcon = _ref => {
     xmlns: "http://www.w3.org/2000/svg",
     className: className
   }, /*#__PURE__*/_react.default.createElement("path", {
-    d: "M2.75 12H6C6.53043 12 7.03914 12.2107 7.41421 12.5858C7.78929 12.9609 8 13.4696 8 14C8 14.5304 8.21071 15.0391 8.58579 15.4142C8.96086 15.7893 9.46957 16 10 16H14C14.5304 16 15.0391 15.7893 15.4142 15.4142C15.7893 15.0391 16 14.5304 16 14C16 13.4696 16.2107 12.9609 16.5858 12.5858C16.9609 12.2107 17.4696 12 18 12H21.25",
+    d: "M21.25 10.7449V16.5C21.25 17.5609 20.8286 18.5783 20.0784 19.3284C19.3283 20.0786 18.3109 20.5 17.25 20.5H6.75C5.68913 20.5 4.67172 20.0786 3.92157 19.3284C3.17143 18.5783 2.75 17.5609 2.75 16.5V7.5C2.75 6.43913 3.17143 5.42172 3.92157 4.67157C4.67172 3.92143 5.68913 3.5 6.75 3.5L13.9013 3.5",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-linecap": "round",
     "stroke-linejoin": "round"
   }), /*#__PURE__*/_react.default.createElement("path", {
-    d: "M15.25 2.75H8.75C5.43629 2.75 2.75 5.43629 2.75 8.75V15.25C2.75 18.5637 5.43629 21.25 8.75 21.25H15.25C18.5637 21.25 21.25 18.5637 21.25 15.25V8.75C21.25 5.43629 18.5637 2.75 15.25 2.75Z",
+    d: "M2.75 7.58997L10 11.72C10.606 12.077 11.2966 12.2653 12 12.2653C12.7034 12.2653 13.394 12.077 14 11.72L16.2189 10.4634",
+    stroke: "currentColor",
+    "stroke-width": "1.5",
+    "stroke-linecap": "round",
+    "stroke-linejoin": "round"
+  }), /*#__PURE__*/_react.default.createElement("circle", {
+    cx: "19",
+    cy: "5",
+    r: "2.5",
     stroke: "currentColor",
     "stroke-width": "1.5"
   }));
 };
-var _default = InboxIcon;
+var _default = EmailNotificationIcon;
 exports.default = _default;

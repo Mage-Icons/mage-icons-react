@@ -153,18 +153,6 @@ Object.defineProperty(exports, "BatteryLowIcon", {
     return _BatteryLowIcon.default;
   }
 });
-Object.defineProperty(exports, "BellNotificationIcon", {
-  enumerable: true,
-  get: function get() {
-    return _BellNotificationIcon.default;
-  }
-});
-Object.defineProperty(exports, "BellNotificationMutedIcon", {
-  enumerable: true,
-  get: function get() {
-    return _BellNotificationMutedIcon.default;
-  }
-});
 Object.defineProperty(exports, "BellNotificationSquareIcon", {
   enumerable: true,
   get: function get() {
@@ -201,10 +189,52 @@ Object.defineProperty(exports, "Calendar3Icon", {
     return _Calendar3Icon.default;
   }
 });
+Object.defineProperty(exports, "CalendarCheckIcon", {
+  enumerable: true,
+  get: function get() {
+    return _CalendarCheckIcon.default;
+  }
+});
+Object.defineProperty(exports, "CalendarCrossIcon", {
+  enumerable: true,
+  get: function get() {
+    return _CalendarCrossIcon.default;
+  }
+});
+Object.defineProperty(exports, "CalendarDownloadIcon", {
+  enumerable: true,
+  get: function get() {
+    return _CalendarDownloadIcon.default;
+  }
+});
 Object.defineProperty(exports, "CalendarIcon", {
   enumerable: true,
   get: function get() {
     return _CalendarIcon.default;
+  }
+});
+Object.defineProperty(exports, "CalendarMinusIcon", {
+  enumerable: true,
+  get: function get() {
+    return _CalendarMinusIcon.default;
+  }
+});
+Object.defineProperty(exports, "CalendarPlusIcon", {
+  enumerable: true,
+  get: function get() {
+    return _CalendarPlusIcon.default;
+  }
+});
+Object.defineProperty(exports, "CalendarQuestionMarkIcon", {
+  enumerable: true,
+  get: function get() {
+    return _CalendarQuestionMarkIcon.default;
+  }
+});
+Object.defineProperty(exports, "CalendarUploadIcon", {
+  enumerable: true,
+  get: function get() {
+    return _CalendarUploadIcon.default;
   }
 });
 Object.defineProperty(exports, "CameraIcon", {
@@ -507,6 +537,12 @@ Object.defineProperty(exports, "EmailIcon", {
     return _EmailIcon.default;
   }
 });
+Object.defineProperty(exports, "EmailOpenedIcon", {
+  enumerable: true,
+  get: function get() {
+    return _EmailOpenedIcon.default;
+  }
+});
 Object.defineProperty(exports, "ExclamationCircleIcon", {
   enumerable: true,
   get: function get() {
@@ -765,16 +801,64 @@ Object.defineProperty(exports, "ImageIcon", {
     return _ImageIcon.default;
   }
 });
+Object.defineProperty(exports, "InboxCheckIcon", {
+  enumerable: true,
+  get: function get() {
+    return _InboxCheckIcon.default;
+  }
+});
+Object.defineProperty(exports, "InboxCrossIcon", {
+  enumerable: true,
+  get: function get() {
+    return _InboxCrossIcon.default;
+  }
+});
+Object.defineProperty(exports, "InboxDownloadIcon", {
+  enumerable: true,
+  get: function get() {
+    return _InboxDownloadIcon.default;
+  }
+});
 Object.defineProperty(exports, "InboxIcon", {
   enumerable: true,
   get: function get() {
     return _InboxIcon.default;
   }
 });
+Object.defineProperty(exports, "InboxMinusIcon", {
+  enumerable: true,
+  get: function get() {
+    return _InboxMinusIcon.default;
+  }
+});
 Object.defineProperty(exports, "InboxNotificationIcon", {
   enumerable: true,
   get: function get() {
     return _InboxNotificationIcon.default;
+  }
+});
+Object.defineProperty(exports, "InboxPlusIcon", {
+  enumerable: true,
+  get: function get() {
+    return _InboxPlusIcon.default;
+  }
+});
+Object.defineProperty(exports, "InboxQuestionMarkIcon", {
+  enumerable: true,
+  get: function get() {
+    return _InboxQuestionMarkIcon.default;
+  }
+});
+Object.defineProperty(exports, "InboxStarIcon", {
+  enumerable: true,
+  get: function get() {
+    return _InboxStarIcon.default;
+  }
+});
+Object.defineProperty(exports, "InboxUploadIcon", {
+  enumerable: true,
+  get: function get() {
+    return _InboxUploadIcon.default;
   }
 });
 Object.defineProperty(exports, "InformationCircleIcon", {
@@ -1033,6 +1117,66 @@ Object.defineProperty(exports, "NextIcon", {
   enumerable: true,
   get: function get() {
     return _NextIcon.default;
+  }
+});
+Object.defineProperty(exports, "NotificationBellCheckIcon", {
+  enumerable: true,
+  get: function get() {
+    return _NotificationBellCheckIcon.default;
+  }
+});
+Object.defineProperty(exports, "NotificationBellCrossIcon", {
+  enumerable: true,
+  get: function get() {
+    return _NotificationBellCrossIcon.default;
+  }
+});
+Object.defineProperty(exports, "NotificationBellDownloadIcon", {
+  enumerable: true,
+  get: function get() {
+    return _NotificationBellDownloadIcon.default;
+  }
+});
+Object.defineProperty(exports, "NotificationBellIcon", {
+  enumerable: true,
+  get: function get() {
+    return _NotificationBellIcon.default;
+  }
+});
+Object.defineProperty(exports, "NotificationBellMinusIcon", {
+  enumerable: true,
+  get: function get() {
+    return _NotificationBellMinusIcon.default;
+  }
+});
+Object.defineProperty(exports, "NotificationBellMutedIcon", {
+  enumerable: true,
+  get: function get() {
+    return _NotificationBellMutedIcon.default;
+  }
+});
+Object.defineProperty(exports, "NotificationBellPlusIcon", {
+  enumerable: true,
+  get: function get() {
+    return _NotificationBellPlusIcon.default;
+  }
+});
+Object.defineProperty(exports, "NotificationBellQuestionMarkIcon", {
+  enumerable: true,
+  get: function get() {
+    return _NotificationBellQuestionMarkIcon.default;
+  }
+});
+Object.defineProperty(exports, "NotificationBellSnooze2Icon", {
+  enumerable: true,
+  get: function get() {
+    return _NotificationBellSnooze2Icon.default;
+  }
+});
+Object.defineProperty(exports, "NotificationBellUploadIcon", {
+  enumerable: true,
+  get: function get() {
+    return _NotificationBellUploadIcon.default;
   }
 });
 Object.defineProperty(exports, "PackageBoxIcon", {
@@ -1489,12 +1633,21 @@ var _Trash3Icon = _interopRequireDefault(require("./Trash3Icon"));
 var _CreditCardIcon = _interopRequireDefault(require("./CreditCardIcon"));
 var _SettingsIcon = _interopRequireDefault(require("./SettingsIcon"));
 var _EmailIcon = _interopRequireDefault(require("./EmailIcon"));
+var _EmailOpenedIcon = _interopRequireDefault(require("./EmailOpenedIcon"));
 var _GlobeIcon = _interopRequireDefault(require("./GlobeIcon"));
 var _ShopIcon = _interopRequireDefault(require("./ShopIcon"));
 var _ShoppingCartIcon = _interopRequireDefault(require("./ShoppingCartIcon"));
 var _ShoppingBagIcon = _interopRequireDefault(require("./ShoppingBagIcon"));
-var _BellNotificationIcon = _interopRequireDefault(require("./BellNotificationIcon"));
-var _BellNotificationMutedIcon = _interopRequireDefault(require("./BellNotificationMutedIcon"));
+var _NotificationBellIcon = _interopRequireDefault(require("./NotificationBellIcon"));
+var _NotificationBellMutedIcon = _interopRequireDefault(require("./NotificationBellMutedIcon"));
+var _NotificationBellSnooze2Icon = _interopRequireDefault(require("./NotificationBellSnooze2Icon"));
+var _NotificationBellPlusIcon = _interopRequireDefault(require("./NotificationBellPlusIcon"));
+var _NotificationBellMinusIcon = _interopRequireDefault(require("./NotificationBellMinusIcon"));
+var _NotificationBellDownloadIcon = _interopRequireDefault(require("./NotificationBellDownloadIcon"));
+var _NotificationBellUploadIcon = _interopRequireDefault(require("./NotificationBellUploadIcon"));
+var _NotificationBellCheckIcon = _interopRequireDefault(require("./NotificationBellCheckIcon"));
+var _NotificationBellCrossIcon = _interopRequireDefault(require("./NotificationBellCrossIcon"));
+var _NotificationBellQuestionMarkIcon = _interopRequireDefault(require("./NotificationBellQuestionMarkIcon"));
 var _ThreeDBoxIcon = _interopRequireDefault(require("./ThreeDBoxIcon"));
 var _PackageBoxIcon = _interopRequireDefault(require("./PackageBoxIcon"));
 var _StackIcon = _interopRequireDefault(require("./StackIcon"));
@@ -1517,6 +1670,13 @@ var _HourGlassIcon = _interopRequireDefault(require("./HourGlassIcon"));
 var _CalendarIcon = _interopRequireDefault(require("./CalendarIcon"));
 var _Calendar2Icon = _interopRequireDefault(require("./Calendar2Icon"));
 var _Calendar3Icon = _interopRequireDefault(require("./Calendar3Icon"));
+var _CalendarPlusIcon = _interopRequireDefault(require("./CalendarPlusIcon"));
+var _CalendarMinusIcon = _interopRequireDefault(require("./CalendarMinusIcon"));
+var _CalendarDownloadIcon = _interopRequireDefault(require("./CalendarDownloadIcon"));
+var _CalendarUploadIcon = _interopRequireDefault(require("./CalendarUploadIcon"));
+var _CalendarCheckIcon = _interopRequireDefault(require("./CalendarCheckIcon"));
+var _CalendarCrossIcon = _interopRequireDefault(require("./CalendarCrossIcon"));
+var _CalendarQuestionMarkIcon = _interopRequireDefault(require("./CalendarQuestionMarkIcon"));
 var _FolderIcon = _interopRequireDefault(require("./FolderIcon"));
 var _Folder2Icon = _interopRequireDefault(require("./Folder2Icon"));
 var _FolderPlusIcon = _interopRequireDefault(require("./FolderPlusIcon"));
@@ -1642,6 +1802,14 @@ var _MessageIcon = _interopRequireDefault(require("./MessageIcon"));
 var _MessageCheckIcon = _interopRequireDefault(require("./MessageCheckIcon"));
 var _InboxIcon = _interopRequireDefault(require("./InboxIcon"));
 var _InboxNotificationIcon = _interopRequireDefault(require("./InboxNotificationIcon"));
+var _InboxStarIcon = _interopRequireDefault(require("./InboxStarIcon"));
+var _InboxPlusIcon = _interopRequireDefault(require("./InboxPlusIcon"));
+var _InboxMinusIcon = _interopRequireDefault(require("./InboxMinusIcon"));
+var _InboxUploadIcon = _interopRequireDefault(require("./InboxUploadIcon"));
+var _InboxDownloadIcon = _interopRequireDefault(require("./InboxDownloadIcon"));
+var _InboxCheckIcon = _interopRequireDefault(require("./InboxCheckIcon"));
+var _InboxCrossIcon = _interopRequireDefault(require("./InboxCrossIcon"));
+var _InboxQuestionMarkIcon = _interopRequireDefault(require("./InboxQuestionMarkIcon"));
 var _MessageConversationIcon = _interopRequireDefault(require("./MessageConversationIcon"));
 var _PhoneIcon = _interopRequireDefault(require("./PhoneIcon"));
 var _PhoneCallIcon = _interopRequireDefault(require("./PhoneCallIcon"));

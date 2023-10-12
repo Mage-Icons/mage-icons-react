@@ -6,7 +6,7 @@ Object.defineProperty(exports, "__esModule", {
 exports.default = void 0;
 var _react = _interopRequireDefault(require("react"));
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
-const InboxNotificationIcon = _ref => {
+const InboxQuestionMarkIcon = _ref => {
   let {
     className
   } = _ref;
@@ -28,13 +28,19 @@ const InboxNotificationIcon = _ref => {
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-linecap": "round"
-  }), /*#__PURE__*/_react.default.createElement("circle", {
-    cx: "19",
-    cy: "5",
-    r: "2.5",
+  }), /*#__PURE__*/_react.default.createElement("path", {
+    d: "M17.6136 3.52698C17.7371 3.25754 17.947 3.03699 18.21 2.90025C18.473 2.7635 18.774 2.71836 19.0655 2.77198C19.2652 2.80262 19.455 2.87966 19.6195 2.99691C19.784 3.11416 19.9188 3.26836 20.0129 3.44712C20.0807 3.5901 20.1175 3.7458 20.1208 3.90399C20.1241 4.06218 20.0939 4.21931 20.0322 4.36501C19.9705 4.5107 19.8787 4.6417 19.7628 4.74938C19.6468 4.85706 19.5094 4.939 19.3596 4.98977C19.2067 5.04779 19.0745 5.14977 18.9795 5.28284C18.8845 5.41591 18.8311 5.57414 18.826 5.73754V6.04606",
     stroke: "currentColor",
-    "stroke-width": "1.5"
+    "stroke-width": "1.5",
+    "stroke-miterlimit": "10",
+    "stroke-linecap": "round"
+  }), /*#__PURE__*/_react.default.createElement("path", {
+    d: "M18.8023 7.75H18.8048",
+    stroke: "currentColor",
+    "stroke-width": "1.5",
+    "stroke-linecap": "round",
+    "stroke-linejoin": "round"
   }));
 };
-var _default = InboxNotificationIcon;
+var _default = InboxQuestionMarkIcon;
 exports.default = _default;
