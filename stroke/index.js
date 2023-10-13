@@ -315,6 +315,66 @@ Object.defineProperty(exports, "BookmarkUploadIcon", {
     return _BookmarkUploadIcon.default;
   }
 });
+Object.defineProperty(exports, "Box3dCheckIcon", {
+  enumerable: true,
+  get: function get() {
+    return _Box3dCheckIcon.default;
+  }
+});
+Object.defineProperty(exports, "Box3dCrossIcon", {
+  enumerable: true,
+  get: function get() {
+    return _Box3dCrossIcon.default;
+  }
+});
+Object.defineProperty(exports, "Box3dDownloadIcon", {
+  enumerable: true,
+  get: function get() {
+    return _Box3dDownloadIcon.default;
+  }
+});
+Object.defineProperty(exports, "Box3dIcon", {
+  enumerable: true,
+  get: function get() {
+    return _Box3dIcon.default;
+  }
+});
+Object.defineProperty(exports, "Box3dMinusIcon", {
+  enumerable: true,
+  get: function get() {
+    return _Box3dMinusIcon.default;
+  }
+});
+Object.defineProperty(exports, "Box3dNotificationIcon", {
+  enumerable: true,
+  get: function get() {
+    return _Box3dNotificationIcon.default;
+  }
+});
+Object.defineProperty(exports, "Box3dPlusIcon", {
+  enumerable: true,
+  get: function get() {
+    return _Box3dPlusIcon.default;
+  }
+});
+Object.defineProperty(exports, "Box3dQuestionMarkIcon", {
+  enumerable: true,
+  get: function get() {
+    return _Box3dQuestionMarkIcon.default;
+  }
+});
+Object.defineProperty(exports, "Box3dScanIcon", {
+  enumerable: true,
+  get: function get() {
+    return _Box3dScanIcon.default;
+  }
+});
+Object.defineProperty(exports, "Box3dUploadIcon", {
+  enumerable: true,
+  get: function get() {
+    return _Box3dUploadIcon.default;
+  }
+});
 Object.defineProperty(exports, "BoxCheckIcon", {
   enumerable: true,
   get: function get() {
@@ -633,10 +693,58 @@ Object.defineProperty(exports, "Dashboard4Icon", {
     return _Dashboard4Icon.default;
   }
 });
+Object.defineProperty(exports, "DashboardBarIcon", {
+  enumerable: true,
+  get: function get() {
+    return _DashboardBarIcon.default;
+  }
+});
+Object.defineProperty(exports, "DashboardBarNotificationIcon", {
+  enumerable: true,
+  get: function get() {
+    return _DashboardBarNotificationIcon.default;
+  }
+});
+Object.defineProperty(exports, "DashboardChartArrowIcon", {
+  enumerable: true,
+  get: function get() {
+    return _DashboardChartArrowIcon.default;
+  }
+});
+Object.defineProperty(exports, "DashboardChartIcon", {
+  enumerable: true,
+  get: function get() {
+    return _DashboardChartIcon.default;
+  }
+});
+Object.defineProperty(exports, "DashboardChartNotificationIcon", {
+  enumerable: true,
+  get: function get() {
+    return _DashboardChartNotificationIcon.default;
+  }
+});
+Object.defineProperty(exports, "DashboardChartStarIcon", {
+  enumerable: true,
+  get: function get() {
+    return _DashboardChartStarIcon.default;
+  }
+});
 Object.defineProperty(exports, "DashboardCheckIcon", {
   enumerable: true,
   get: function get() {
     return _DashboardCheckIcon.default;
+  }
+});
+Object.defineProperty(exports, "DashboardCircleBarIcon", {
+  enumerable: true,
+  get: function get() {
+    return _DashboardCircleBarIcon.default;
+  }
+});
+Object.defineProperty(exports, "DashboardCircleChartIcon", {
+  enumerable: true,
+  get: function get() {
+    return _DashboardCircleChartIcon.default;
   }
 });
 Object.defineProperty(exports, "DashboardCrossIcon", {
@@ -2157,10 +2265,46 @@ Object.defineProperty(exports, "StackIcon", {
     return _StackIcon.default;
   }
 });
+Object.defineProperty(exports, "StarCircleIcon", {
+  enumerable: true,
+  get: function get() {
+    return _StarCircleIcon.default;
+  }
+});
 Object.defineProperty(exports, "StarIcon", {
   enumerable: true,
   get: function get() {
     return _StarIcon.default;
+  }
+});
+Object.defineProperty(exports, "StarMovingIcon", {
+  enumerable: true,
+  get: function get() {
+    return _StarMovingIcon.default;
+  }
+});
+Object.defineProperty(exports, "StarSquareIcon", {
+  enumerable: true,
+  get: function get() {
+    return _StarSquareIcon.default;
+  }
+});
+Object.defineProperty(exports, "StarsAIcon", {
+  enumerable: true,
+  get: function get() {
+    return _StarsAIcon.default;
+  }
+});
+Object.defineProperty(exports, "StarsBIcon", {
+  enumerable: true,
+  get: function get() {
+    return _StarsBIcon.default;
+  }
+});
+Object.defineProperty(exports, "StarsCIcon", {
+  enumerable: true,
+  get: function get() {
+    return _StarsCIcon.default;
   }
 });
 Object.defineProperty(exports, "StopCircleIcon", {
@@ -2275,12 +2419,6 @@ Object.defineProperty(exports, "TelevisionUploadIcon", {
   enumerable: true,
   get: function get() {
     return _TelevisionUploadIcon.default;
-  }
-});
-Object.defineProperty(exports, "ThreeDBoxIcon", {
-  enumerable: true,
-  get: function get() {
-    return _ThreeDBoxIcon.default;
   }
 });
 Object.defineProperty(exports, "ThreeDBoxSquareIcon", {
@@ -2469,6 +2607,14 @@ Object.defineProperty(exports, "ZoomOutIcon", {
     return _ZoomOutIcon.default;
   }
 });
+var _DashboardChartIcon = _interopRequireDefault(require("./DashboardChartIcon"));
+var _DashboardChartNotificationIcon = _interopRequireDefault(require("./DashboardChartNotificationIcon"));
+var _DashboardBarIcon = _interopRequireDefault(require("./DashboardBarIcon"));
+var _DashboardBarNotificationIcon = _interopRequireDefault(require("./DashboardBarNotificationIcon"));
+var _DashboardCircleChartIcon = _interopRequireDefault(require("./DashboardCircleChartIcon"));
+var _DashboardCircleBarIcon = _interopRequireDefault(require("./DashboardCircleBarIcon"));
+var _DashboardChartArrowIcon = _interopRequireDefault(require("./DashboardChartArrowIcon"));
+var _DashboardChartStarIcon = _interopRequireDefault(require("./DashboardChartStarIcon"));
 var _HomeIcon = _interopRequireDefault(require("./HomeIcon"));
 var _Home2Icon = _interopRequireDefault(require("./Home2Icon"));
 var _Home3Icon = _interopRequireDefault(require("./Home3Icon"));
@@ -2506,7 +2652,16 @@ var _NotificationBellUploadIcon = _interopRequireDefault(require("./Notification
 var _NotificationBellCheckIcon = _interopRequireDefault(require("./NotificationBellCheckIcon"));
 var _NotificationBellCrossIcon = _interopRequireDefault(require("./NotificationBellCrossIcon"));
 var _NotificationBellQuestionMarkIcon = _interopRequireDefault(require("./NotificationBellQuestionMarkIcon"));
-var _ThreeDBoxIcon = _interopRequireDefault(require("./ThreeDBoxIcon"));
+var _Box3dIcon = _interopRequireDefault(require("./Box3dIcon"));
+var _Box3dPlusIcon = _interopRequireDefault(require("./Box3dPlusIcon"));
+var _Box3dMinusIcon = _interopRequireDefault(require("./Box3dMinusIcon"));
+var _Box3dUploadIcon = _interopRequireDefault(require("./Box3dUploadIcon"));
+var _Box3dDownloadIcon = _interopRequireDefault(require("./Box3dDownloadIcon"));
+var _Box3dNotificationIcon = _interopRequireDefault(require("./Box3dNotificationIcon"));
+var _Box3dCheckIcon = _interopRequireDefault(require("./Box3dCheckIcon"));
+var _Box3dCrossIcon = _interopRequireDefault(require("./Box3dCrossIcon"));
+var _Box3dQuestionMarkIcon = _interopRequireDefault(require("./Box3dQuestionMarkIcon"));
+var _Box3dScanIcon = _interopRequireDefault(require("./Box3dScanIcon"));
 var _PackageBoxIcon = _interopRequireDefault(require("./PackageBoxIcon"));
 var _SearchIcon = _interopRequireDefault(require("./SearchIcon"));
 var _StackIcon = _interopRequireDefault(require("./StackIcon"));
@@ -2531,6 +2686,12 @@ var _UnlockedIcon = _interopRequireDefault(require("./UnlockedIcon"));
 var _DotsMenuIcon = _interopRequireDefault(require("./DotsMenuIcon"));
 var _MoonIcon = _interopRequireDefault(require("./MoonIcon"));
 var _StarIcon = _interopRequireDefault(require("./StarIcon"));
+var _StarsAIcon = _interopRequireDefault(require("./StarsAIcon"));
+var _StarsBIcon = _interopRequireDefault(require("./StarsBIcon"));
+var _StarsCIcon = _interopRequireDefault(require("./StarsCIcon"));
+var _StarSquareIcon = _interopRequireDefault(require("./StarSquareIcon"));
+var _StarCircleIcon = _interopRequireDefault(require("./StarCircleIcon"));
+var _StarMovingIcon = _interopRequireDefault(require("./StarMovingIcon"));
 var _SunIcon = _interopRequireDefault(require("./SunIcon"));
 var _CancelIcon = _interopRequireDefault(require("./CancelIcon"));
 var _AlarmClockIcon = _interopRequireDefault(require("./AlarmClockIcon"));
