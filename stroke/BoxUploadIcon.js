@@ -6,7 +6,7 @@ Object.defineProperty(exports, "__esModule", {
 exports.default = void 0;
 var _react = _interopRequireDefault(require("react"));
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
-const ArchiveBoxIcon = _ref => {
+const BoxUploadIcon = _ref => {
   let {
     className
   } = _ref;
@@ -18,24 +18,30 @@ const ArchiveBoxIcon = _ref => {
     xmlns: "http://www.w3.org/2000/svg",
     className: className
   }, /*#__PURE__*/_react.default.createElement("path", {
-    d: "M4.80556 9.43057V17.6528C4.80556 18.198 5.02212 18.7208 5.40761 19.1063C5.7931 19.4918 6.31594 19.7084 6.86111 19.7084H17.1389C17.6841 19.7084 18.2069 19.4918 18.5924 19.1063C18.9779 18.7208 19.1944 18.198 19.1944 17.6528V9.43057",
+    d: "M4.38232 8.8125V17.3125C4.38232 18.1579 4.72628 18.9686 5.33853 19.5664C5.95079 20.1642 6.78118 20.5 7.64703 20.5H16.3529C17.2188 20.5 18.0492 20.1642 18.6614 19.5664C19.2737 18.9686 19.6176 18.1579 19.6176 17.3125V8.8125",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-linecap": "round",
     "stroke-linejoin": "round"
   }), /*#__PURE__*/_react.default.createElement("path", {
-    d: "M19.7083 4.29169H4.29167C3.44023 4.29169 2.75 4.98191 2.75 5.83335V7.88891C2.75 8.74035 3.44023 9.43058 4.29167 9.43058H19.7083C20.5598 9.43058 21.25 8.74035 21.25 7.88891V5.83335C21.25 4.98191 20.5598 4.29169 19.7083 4.29169Z",
+    d: "M19.6176 3.5H4.38235C3.48083 3.5 2.75 4.21355 2.75 5.09375V7.21875C2.75 8.09895 3.48083 8.8125 4.38235 8.8125H19.6176C20.5192 8.8125 21.25 8.09895 21.25 7.21875V5.09375C21.25 4.21355 20.5192 3.5 19.6176 3.5Z",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-linecap": "round",
     "stroke-linejoin": "round"
   }), /*#__PURE__*/_react.default.createElement("path", {
-    d: "M8.91666 15.5972H15.0833",
+    d: "M11.9999 12L11.9999 17",
+    stroke: "currentColor",
+    "stroke-width": "1.5",
+    "stroke-miterlimit": "10",
+    "stroke-linecap": "round"
+  }), /*#__PURE__*/_react.default.createElement("path", {
+    d: "M14.2929 14.105L12.3256 12.1376C12.283 12.0947 12.2322 12.0605 12.1763 12.0373C12.1205 12.014 12.0605 12.002 12 12.002C11.9395 12.002 11.8795 12.014 11.8236 12.0373C11.7677 12.0605 11.717 12.0947 11.6744 12.1376L9.70707 14.105",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-linecap": "round",
     "stroke-linejoin": "round"
   }));
 };
-var _default = ArchiveBoxIcon;
+var _default = BoxUploadIcon;
 exports.default = _default;
