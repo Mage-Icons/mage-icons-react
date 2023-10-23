@@ -24,7 +24,7 @@ const SaveFloppyIcon = _ref => {
     "stroke-linecap": "round",
     "stroke-linejoin": "round"
   }), /*#__PURE__*/_react.default.createElement("path", {
-    d: "M7 21.22V15.9785C7 15.449 7.21071 14.9411 7.58579 14.5666C7.96086 14.1921 8.46957 13.9818 9 13.9818H15C15.5304 13.9818 16.0391 14.1921 16.4142 14.5666C16.7893 14.9411 17 15.449 17 15.9785V21.22",
+    d: "M7 21.22V15.9785C7 15.4489 7.21071 14.9411 7.58579 14.5666C7.96086 14.1921 8.46957 13.9818 9 13.9818H15C15.5304 13.9818 16.0391 14.1921 16.4142 14.5666C16.7893 14.9411 17 15.4489 17 15.9785V21.22",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-linecap": "round",
@@ -36,7 +36,7 @@ const SaveFloppyIcon = _ref => {
     "stroke-linecap": "round",
     "stroke-linejoin": "round"
   }), /*#__PURE__*/_react.default.createElement("path", {
-    d: "M9 16.9769H15",
+    d: "M10.1461 17.8578H13.8539",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-linecap": "round",

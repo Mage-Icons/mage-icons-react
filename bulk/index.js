@@ -2007,6 +2007,12 @@ Object.defineProperty(exports, "ScanUserIcon", {
     return _ScanUserIcon.default;
   }
 });
+Object.defineProperty(exports, "SearchIcon", {
+  enumerable: true,
+  get: function get() {
+    return _SearchIcon.default;
+  }
+});
 Object.defineProperty(exports, "SearchSquareIcon", {
   enumerable: true,
   get: function get() {
@@ -2557,6 +2563,7 @@ var _Box3dCrossIcon = _interopRequireDefault(require("./Box3dCrossIcon"));
 var _Box3dQuestionMarkIcon = _interopRequireDefault(require("./Box3dQuestionMarkIcon"));
 var _Box3dScanIcon = _interopRequireDefault(require("./Box3dScanIcon"));
 var _PackageBoxIcon = _interopRequireDefault(require("./PackageBoxIcon"));
+var _SearchIcon = _interopRequireDefault(require("./SearchIcon"));
 var _StackIcon = _interopRequireDefault(require("./StackIcon"));
 var _SecurityShieldIcon = _interopRequireDefault(require("./SecurityShieldIcon"));
 var _ShieldCrossIcon = _interopRequireDefault(require("./ShieldCrossIcon"));
