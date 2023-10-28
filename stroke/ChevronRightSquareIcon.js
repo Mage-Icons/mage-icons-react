@@ -18,17 +18,19 @@ const ChevronRightSquareIcon = _ref => {
     xmlns: "http://www.w3.org/2000/svg",
     className: className
   }, /*#__PURE__*/_react.default.createElement("path", {
-    d: "M10.1778 16.4141L13.8561 12.7358C13.959 12.6332 14.0406 12.5114 14.0963 12.3773C14.152 12.2431 14.1806 12.0994 14.1806 11.9541C14.1806 11.8089 14.152 11.665 14.0963 11.5309C14.0406 11.3968 13.959 11.275 13.8561 11.1724L10.1778 7.58606",
+    d: "M10.1777 16.4139L13.856 12.7356C13.9589 12.6331 14.0405 12.5113 14.0962 12.3771C14.1519 12.243 14.1806 12.0992 14.1806 11.954C14.1806 11.8088 14.1519 11.6649 14.0962 11.5308C14.0405 11.3966 13.9589 11.2748 13.856 11.1723L10.1777 7.58594",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-linecap": "round",
     "stroke-linejoin": "round"
-  }), /*#__PURE__*/_react.default.createElement("path", {
-    d: "M16.5839 2.75H7.41611C4.83909 2.75 2.75 4.83909 2.75 7.41611V16.5839C2.75 19.1609 4.83909 21.25 7.41611 21.25H16.5839C19.1609 21.25 21.25 19.1609 21.25 16.5839V7.41611C21.25 4.83909 19.1609 2.75 16.5839 2.75Z",
+  }), /*#__PURE__*/_react.default.createElement("rect", {
+    x: "2.75",
+    y: "2.75",
+    width: "18.5",
+    height: "18.5",
+    rx: "6",
     stroke: "currentColor",
-    "stroke-width": "1.5",
-    "stroke-linecap": "round",
-    "stroke-linejoin": "round"
+    "stroke-width": "1.5"
   }));
 };
 var _default = ChevronRightSquareIcon;

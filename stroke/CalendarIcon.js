@@ -18,25 +18,25 @@ const CalendarIcon = _ref => {
     xmlns: "http://www.w3.org/2000/svg",
     className: className
   }, /*#__PURE__*/_react.default.createElement("path", {
-    d: "M18.6806 5.0625H5.31944C3.90038 5.0625 2.75 6.21288 2.75 7.63194V18.4236C2.75 19.8427 3.90038 20.9931 5.31944 20.9931H18.6806C20.0996 20.9931 21.25 19.8427 21.25 18.4236V7.63194C21.25 6.21288 20.0996 5.0625 18.6806 5.0625Z",
+    d: "M17 4.625H7C4.79086 4.625 3 6.41586 3 8.625V17.375C3 19.5841 4.79086 21.375 7 21.375H17C19.2091 21.375 21 19.5841 21 17.375V8.625C21 6.41586 19.2091 4.625 17 4.625Z",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-linecap": "round",
     "stroke-linejoin": "round"
   }), /*#__PURE__*/_react.default.createElement("path", {
-    d: "M2.75 10.2014H21.25",
+    d: "M3 10.625H21",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-linecap": "round",
     "stroke-linejoin": "round"
   }), /*#__PURE__*/_react.default.createElement("path", {
-    d: "M17.1389 3.00696V7.11807",
+    d: "M17 2.625V6.625",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-linecap": "round",
     "stroke-linejoin": "round"
   }), /*#__PURE__*/_react.default.createElement("path", {
-    d: "M6.86105 3.00696V7.11807",
+    d: "M7 2.625V6.625",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-linecap": "round",

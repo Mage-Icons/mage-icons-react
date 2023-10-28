@@ -18,23 +18,25 @@ const InformationSquareIcon = _ref => {
     xmlns: "http://www.w3.org/2000/svg",
     className: className
   }, /*#__PURE__*/_react.default.createElement("path", {
-    d: "M12 17.139V10.9723",
+    d: "M12 17.1388V10.9722",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-linecap": "round",
     "stroke-linejoin": "round"
   }), /*#__PURE__*/_react.default.createElement("path", {
-    d: "M11.9573 7.5625H11.9662",
+    d: "M11.9575 7.5625H11.9664",
     stroke: "currentColor",
     "stroke-width": "2",
     "stroke-linecap": "round",
     "stroke-linejoin": "round"
-  }), /*#__PURE__*/_react.default.createElement("path", {
-    d: "M16.5839 2.75H7.41611C4.83909 2.75 2.75 4.83909 2.75 7.41611V16.5839C2.75 19.1609 4.83909 21.25 7.41611 21.25H16.5839C19.1609 21.25 21.25 19.1609 21.25 16.5839V7.41611C21.25 4.83909 19.1609 2.75 16.5839 2.75Z",
+  }), /*#__PURE__*/_react.default.createElement("rect", {
+    x: "2.75",
+    y: "2.75",
+    width: "18.5",
+    height: "18.5",
+    rx: "6",
     stroke: "currentColor",
-    "stroke-width": "1.5",
-    "stroke-linecap": "round",
-    "stroke-linejoin": "round"
+    "stroke-width": "1.5"
   }));
 };
 var _default = InformationSquareIcon;

@@ -15,10 +15,16 @@ Object.defineProperty(exports, "AlarmClockIcon", {
     return _AlarmClockIcon.default;
   }
 });
-Object.defineProperty(exports, "ArchiveBoxIcon", {
+Object.defineProperty(exports, "ArchiveDrawerIcon", {
   enumerable: true,
   get: function get() {
-    return _ArchiveBoxIcon.default;
+    return _ArchiveDrawerIcon.default;
+  }
+});
+Object.defineProperty(exports, "ArchiveIcon", {
+  enumerable: true,
+  get: function get() {
+    return _ArchiveIcon.default;
   }
 });
 Object.defineProperty(exports, "ArrowDownCircleIcon", {
@@ -117,6 +123,24 @@ Object.defineProperty(exports, "ArrowUpSquareIcon", {
     return _ArrowUpSquareIcon.default;
   }
 });
+Object.defineProperty(exports, "BagAIcon", {
+  enumerable: true,
+  get: function get() {
+    return _BagAIcon.default;
+  }
+});
+Object.defineProperty(exports, "BagBIcon", {
+  enumerable: true,
+  get: function get() {
+    return _BagBIcon.default;
+  }
+});
+Object.defineProperty(exports, "BasketIcon", {
+  enumerable: true,
+  get: function get() {
+    return _BasketIcon.default;
+  }
+});
 Object.defineProperty(exports, "BatteryChargingIcon", {
   enumerable: true,
   get: function get() {
@@ -153,28 +177,214 @@ Object.defineProperty(exports, "BatteryLowIcon", {
     return _BatteryLowIcon.default;
   }
 });
-Object.defineProperty(exports, "BellNotificationIcon", {
-  enumerable: true,
-  get: function get() {
-    return _BellNotificationIcon.default;
-  }
-});
-Object.defineProperty(exports, "BellNotificationMutedIcon", {
-  enumerable: true,
-  get: function get() {
-    return _BellNotificationMutedIcon.default;
-  }
-});
 Object.defineProperty(exports, "BellNotificationSquareIcon", {
   enumerable: true,
   get: function get() {
     return _BellNotificationSquareIcon.default;
   }
 });
+Object.defineProperty(exports, "BoltIcon", {
+  enumerable: true,
+  get: function get() {
+    return _BoltIcon.default;
+  }
+});
+Object.defineProperty(exports, "BookIcon", {
+  enumerable: true,
+  get: function get() {
+    return _BookIcon.default;
+  }
+});
+Object.defineProperty(exports, "BookTextIcon", {
+  enumerable: true,
+  get: function get() {
+    return _BookTextIcon.default;
+  }
+});
+Object.defineProperty(exports, "BookmarkCheckIcon", {
+  enumerable: true,
+  get: function get() {
+    return _BookmarkCheckIcon.default;
+  }
+});
+Object.defineProperty(exports, "BookmarkCrossIcon", {
+  enumerable: true,
+  get: function get() {
+    return _BookmarkCrossIcon.default;
+  }
+});
+Object.defineProperty(exports, "BookmarkDownloadIcon", {
+  enumerable: true,
+  get: function get() {
+    return _BookmarkDownloadIcon.default;
+  }
+});
 Object.defineProperty(exports, "BookmarkIcon", {
   enumerable: true,
   get: function get() {
     return _BookmarkIcon.default;
+  }
+});
+Object.defineProperty(exports, "BookmarkMinusIcon", {
+  enumerable: true,
+  get: function get() {
+    return _BookmarkMinusIcon.default;
+  }
+});
+Object.defineProperty(exports, "BookmarkPlusIcon", {
+  enumerable: true,
+  get: function get() {
+    return _BookmarkPlusIcon.default;
+  }
+});
+Object.defineProperty(exports, "BookmarkQuestionMarkIcon", {
+  enumerable: true,
+  get: function get() {
+    return _BookmarkQuestionMarkIcon.default;
+  }
+});
+Object.defineProperty(exports, "BookmarkUploadIcon", {
+  enumerable: true,
+  get: function get() {
+    return _BookmarkUploadIcon.default;
+  }
+});
+Object.defineProperty(exports, "Box3dCheckIcon", {
+  enumerable: true,
+  get: function get() {
+    return _Box3dCheckIcon.default;
+  }
+});
+Object.defineProperty(exports, "Box3dCrossIcon", {
+  enumerable: true,
+  get: function get() {
+    return _Box3dCrossIcon.default;
+  }
+});
+Object.defineProperty(exports, "Box3dDownloadIcon", {
+  enumerable: true,
+  get: function get() {
+    return _Box3dDownloadIcon.default;
+  }
+});
+Object.defineProperty(exports, "Box3dIcon", {
+  enumerable: true,
+  get: function get() {
+    return _Box3dIcon.default;
+  }
+});
+Object.defineProperty(exports, "Box3dMinusIcon", {
+  enumerable: true,
+  get: function get() {
+    return _Box3dMinusIcon.default;
+  }
+});
+Object.defineProperty(exports, "Box3dNotificationIcon", {
+  enumerable: true,
+  get: function get() {
+    return _Box3dNotificationIcon.default;
+  }
+});
+Object.defineProperty(exports, "Box3dPlusIcon", {
+  enumerable: true,
+  get: function get() {
+    return _Box3dPlusIcon.default;
+  }
+});
+Object.defineProperty(exports, "Box3dQuestionMarkIcon", {
+  enumerable: true,
+  get: function get() {
+    return _Box3dQuestionMarkIcon.default;
+  }
+});
+Object.defineProperty(exports, "Box3dScanIcon", {
+  enumerable: true,
+  get: function get() {
+    return _Box3dScanIcon.default;
+  }
+});
+Object.defineProperty(exports, "Box3dUploadIcon", {
+  enumerable: true,
+  get: function get() {
+    return _Box3dUploadIcon.default;
+  }
+});
+Object.defineProperty(exports, "BoxCheckIcon", {
+  enumerable: true,
+  get: function get() {
+    return _BoxCheckIcon.default;
+  }
+});
+Object.defineProperty(exports, "BoxCrossIcon", {
+  enumerable: true,
+  get: function get() {
+    return _BoxCrossIcon.default;
+  }
+});
+Object.defineProperty(exports, "BoxIcon", {
+  enumerable: true,
+  get: function get() {
+    return _BoxIcon.default;
+  }
+});
+Object.defineProperty(exports, "BoxMinusIcon", {
+  enumerable: true,
+  get: function get() {
+    return _BoxMinusIcon.default;
+  }
+});
+Object.defineProperty(exports, "BoxPlusIcon", {
+  enumerable: true,
+  get: function get() {
+    return _BoxPlusIcon.default;
+  }
+});
+Object.defineProperty(exports, "BoxQuestionMarkIcon", {
+  enumerable: true,
+  get: function get() {
+    return _BoxQuestionMarkIcon.default;
+  }
+});
+Object.defineProperty(exports, "BoxUploadIcon", {
+  enumerable: true,
+  get: function get() {
+    return _BoxUploadIcon.default;
+  }
+});
+Object.defineProperty(exports, "BriefcaseIcon", {
+  enumerable: true,
+  get: function get() {
+    return _BriefcaseIcon.default;
+  }
+});
+Object.defineProperty(exports, "BroadcastIcon", {
+  enumerable: true,
+  get: function get() {
+    return _BroadcastIcon.default;
+  }
+});
+Object.defineProperty(exports, "BuildingAIcon", {
+  enumerable: true,
+  get: function get() {
+    return _BuildingAIcon.default;
+  }
+});
+Object.defineProperty(exports, "BuildingBIcon", {
+  enumerable: true,
+  get: function get() {
+    return _BuildingBIcon.default;
+  }
+});
+Object.defineProperty(exports, "BuildingTreeIcon", {
+  enumerable: true,
+  get: function get() {
+    return _BuildingTreeIcon.default;
+  }
+});
+Object.defineProperty(exports, "CalculatorIcon", {
+  enumerable: true,
+  get: function get() {
+    return _CalculatorIcon.default;
   }
 });
 Object.defineProperty(exports, "Calendar2Icon", {
@@ -189,10 +399,58 @@ Object.defineProperty(exports, "Calendar3Icon", {
     return _Calendar3Icon.default;
   }
 });
+Object.defineProperty(exports, "CalendarCheckIcon", {
+  enumerable: true,
+  get: function get() {
+    return _CalendarCheckIcon.default;
+  }
+});
+Object.defineProperty(exports, "CalendarCrossIcon", {
+  enumerable: true,
+  get: function get() {
+    return _CalendarCrossIcon.default;
+  }
+});
+Object.defineProperty(exports, "CalendarDownloadIcon", {
+  enumerable: true,
+  get: function get() {
+    return _CalendarDownloadIcon.default;
+  }
+});
 Object.defineProperty(exports, "CalendarIcon", {
   enumerable: true,
   get: function get() {
     return _CalendarIcon.default;
+  }
+});
+Object.defineProperty(exports, "CalendarMinusIcon", {
+  enumerable: true,
+  get: function get() {
+    return _CalendarMinusIcon.default;
+  }
+});
+Object.defineProperty(exports, "CalendarPlusIcon", {
+  enumerable: true,
+  get: function get() {
+    return _CalendarPlusIcon.default;
+  }
+});
+Object.defineProperty(exports, "CalendarQuestionMarkIcon", {
+  enumerable: true,
+  get: function get() {
+    return _CalendarQuestionMarkIcon.default;
+  }
+});
+Object.defineProperty(exports, "CalendarUploadIcon", {
+  enumerable: true,
+  get: function get() {
+    return _CalendarUploadIcon.default;
+  }
+});
+Object.defineProperty(exports, "Camera2Icon", {
+  enumerable: true,
+  get: function get() {
+    return _Camera2Icon.default;
   }
 });
 Object.defineProperty(exports, "CameraIcon", {
@@ -205,6 +463,30 @@ Object.defineProperty(exports, "CancelIcon", {
   enumerable: true,
   get: function get() {
     return _CancelIcon.default;
+  }
+});
+Object.defineProperty(exports, "CaretDownIcon", {
+  enumerable: true,
+  get: function get() {
+    return _CaretDownIcon.default;
+  }
+});
+Object.defineProperty(exports, "CaretLeftIcon", {
+  enumerable: true,
+  get: function get() {
+    return _CaretLeftIcon.default;
+  }
+});
+Object.defineProperty(exports, "CaretRightIcon", {
+  enumerable: true,
+  get: function get() {
+    return _CaretRightIcon.default;
+  }
+});
+Object.defineProperty(exports, "CaretUpIcon", {
+  enumerable: true,
+  get: function get() {
+    return _CaretUpIcon.default;
   }
 });
 Object.defineProperty(exports, "Chart15Icon", {
@@ -225,6 +507,18 @@ Object.defineProperty(exports, "Chart50Icon", {
     return _Chart50Icon.default;
   }
 });
+Object.defineProperty(exports, "ChartBIcon", {
+  enumerable: true,
+  get: function get() {
+    return _ChartBIcon.default;
+  }
+});
+Object.defineProperty(exports, "ChartDownBIcon", {
+  enumerable: true,
+  get: function get() {
+    return _ChartDownBIcon.default;
+  }
+});
 Object.defineProperty(exports, "ChartDownIcon", {
   enumerable: true,
   get: function get() {
@@ -235,6 +529,12 @@ Object.defineProperty(exports, "ChartIcon", {
   enumerable: true,
   get: function get() {
     return _ChartIcon.default;
+  }
+});
+Object.defineProperty(exports, "ChartUpBIcon", {
+  enumerable: true,
+  get: function get() {
+    return _ChartUpBIcon.default;
   }
 });
 Object.defineProperty(exports, "ChartUpIcon", {
@@ -259,6 +559,12 @@ Object.defineProperty(exports, "CheckSquareIcon", {
   enumerable: true,
   get: function get() {
     return _CheckSquareIcon.default;
+  }
+});
+Object.defineProperty(exports, "ChecklistNoteIcon", {
+  enumerable: true,
+  get: function get() {
+    return _ChecklistNoteIcon.default;
   }
 });
 Object.defineProperty(exports, "ChevronDownCircleIcon", {
@@ -309,6 +615,12 @@ Object.defineProperty(exports, "ChevronUpSquareIcon", {
     return _ChevronUpSquareIcon.default;
   }
 });
+Object.defineProperty(exports, "ChipIcon", {
+  enumerable: true,
+  get: function get() {
+    return _ChipIcon.default;
+  }
+});
 Object.defineProperty(exports, "Clipboard2Icon", {
   enumerable: true,
   get: function get() {
@@ -327,10 +639,46 @@ Object.defineProperty(exports, "ClockIcon", {
     return _ClockIcon.default;
   }
 });
+Object.defineProperty(exports, "CoinAIcon", {
+  enumerable: true,
+  get: function get() {
+    return _CoinAIcon.default;
+  }
+});
+Object.defineProperty(exports, "CoinBIcon", {
+  enumerable: true,
+  get: function get() {
+    return _CoinBIcon.default;
+  }
+});
+Object.defineProperty(exports, "ColorPickerIcon", {
+  enumerable: true,
+  get: function get() {
+    return _ColorPickerIcon.default;
+  }
+});
+Object.defineProperty(exports, "ColorSwatchIcon", {
+  enumerable: true,
+  get: function get() {
+    return _ColorSwatchIcon.default;
+  }
+});
+Object.defineProperty(exports, "CompactDiskIcon", {
+  enumerable: true,
+  get: function get() {
+    return _CompactDiskIcon.default;
+  }
+});
 Object.defineProperty(exports, "CompassIcon", {
   enumerable: true,
   get: function get() {
     return _CompassIcon.default;
+  }
+});
+Object.defineProperty(exports, "ContactBookIcon", {
+  enumerable: true,
+  get: function get() {
+    return _ContactBookIcon.default;
   }
 });
 Object.defineProperty(exports, "CopyIcon", {
@@ -343,6 +691,24 @@ Object.defineProperty(exports, "CreditCardIcon", {
   enumerable: true,
   get: function get() {
     return _CreditCardIcon.default;
+  }
+});
+Object.defineProperty(exports, "CrownAIcon", {
+  enumerable: true,
+  get: function get() {
+    return _CrownAIcon.default;
+  }
+});
+Object.defineProperty(exports, "CrownBIcon", {
+  enumerable: true,
+  get: function get() {
+    return _CrownBIcon.default;
+  }
+});
+Object.defineProperty(exports, "CupHotIcon", {
+  enumerable: true,
+  get: function get() {
+    return _CupHotIcon.default;
   }
 });
 Object.defineProperty(exports, "Dashboard2Icon", {
@@ -363,10 +729,40 @@ Object.defineProperty(exports, "Dashboard4Icon", {
     return _Dashboard4Icon.default;
   }
 });
+Object.defineProperty(exports, "DashboardBarIcon", {
+  enumerable: true,
+  get: function get() {
+    return _DashboardBarIcon.default;
+  }
+});
+Object.defineProperty(exports, "DashboardChartArrowIcon", {
+  enumerable: true,
+  get: function get() {
+    return _DashboardChartArrowIcon.default;
+  }
+});
+Object.defineProperty(exports, "DashboardChartIcon", {
+  enumerable: true,
+  get: function get() {
+    return _DashboardChartIcon.default;
+  }
+});
 Object.defineProperty(exports, "DashboardCheckIcon", {
   enumerable: true,
   get: function get() {
     return _DashboardCheckIcon.default;
+  }
+});
+Object.defineProperty(exports, "DashboardCircleBarIcon", {
+  enumerable: true,
+  get: function get() {
+    return _DashboardCircleBarIcon.default;
+  }
+});
+Object.defineProperty(exports, "DashboardCircleChartIcon", {
+  enumerable: true,
+  get: function get() {
+    return _DashboardCircleChartIcon.default;
   }
 });
 Object.defineProperty(exports, "DashboardCrossIcon", {
@@ -403,6 +799,18 @@ Object.defineProperty(exports, "DatabaseIcon", {
   enumerable: true,
   get: function get() {
     return _DatabaseIcon.default;
+  }
+});
+Object.defineProperty(exports, "DeliveryTruckIcon", {
+  enumerable: true,
+  get: function get() {
+    return _DeliveryTruckIcon.default;
+  }
+});
+Object.defineProperty(exports, "DialerKeypadIcon", {
+  enumerable: true,
+  get: function get() {
+    return _DialerKeypadIcon.default;
   }
 });
 Object.defineProperty(exports, "DirectionRight2Icon", {
@@ -453,6 +861,12 @@ Object.defineProperty(exports, "DivideSquareIcon", {
     return _DivideSquareIcon.default;
   }
 });
+Object.defineProperty(exports, "DollarIcon", {
+  enumerable: true,
+  get: function get() {
+    return _DollarIcon.default;
+  }
+});
 Object.defineProperty(exports, "DotsCircleIcon", {
   enumerable: true,
   get: function get() {
@@ -477,6 +891,36 @@ Object.defineProperty(exports, "DotsSquareIcon", {
     return _DotsSquareIcon.default;
   }
 });
+Object.defineProperty(exports, "DoubleArrowCircleIcon", {
+  enumerable: true,
+  get: function get() {
+    return _DoubleArrowCircleIcon.default;
+  }
+});
+Object.defineProperty(exports, "DoubleCircleIcon", {
+  enumerable: true,
+  get: function get() {
+    return _DoubleCircleIcon.default;
+  }
+});
+Object.defineProperty(exports, "DoubleDiamondIcon", {
+  enumerable: true,
+  get: function get() {
+    return _DoubleDiamondIcon.default;
+  }
+});
+Object.defineProperty(exports, "DoubleSquareIcon", {
+  enumerable: true,
+  get: function get() {
+    return _DoubleSquareIcon.default;
+  }
+});
+Object.defineProperty(exports, "EarthIcon", {
+  enumerable: true,
+  get: function get() {
+    return _EarthIcon.default;
+  }
+});
 Object.defineProperty(exports, "EditIcon", {
   enumerable: true,
   get: function get() {
@@ -489,10 +933,28 @@ Object.defineProperty(exports, "EditPenIcon", {
     return _EditPenIcon.default;
   }
 });
+Object.defineProperty(exports, "ElectricityDangerIcon", {
+  enumerable: true,
+  get: function get() {
+    return _ElectricityDangerIcon.default;
+  }
+});
+Object.defineProperty(exports, "ElectricityIcon", {
+  enumerable: true,
+  get: function get() {
+    return _ElectricityIcon.default;
+  }
+});
 Object.defineProperty(exports, "EmailIcon", {
   enumerable: true,
   get: function get() {
     return _EmailIcon.default;
+  }
+});
+Object.defineProperty(exports, "EmailOpenedIcon", {
+  enumerable: true,
+  get: function get() {
+    return _EmailOpenedIcon.default;
   }
 });
 Object.defineProperty(exports, "ExclamationCircleIcon", {
@@ -523,6 +985,12 @@ Object.defineProperty(exports, "EyeIcon", {
   enumerable: true,
   get: function get() {
     return _EyeIcon.default;
+  }
+});
+Object.defineProperty(exports, "EyeOffIcon", {
+  enumerable: true,
+  get: function get() {
+    return _EyeOffIcon.default;
   }
 });
 Object.defineProperty(exports, "FastForwardBackIcon", {
@@ -609,10 +1077,40 @@ Object.defineProperty(exports, "FilterIcon", {
     return _FilterIcon.default;
   }
 });
+Object.defineProperty(exports, "FilterSquareIcon", {
+  enumerable: true,
+  get: function get() {
+    return _FilterSquareIcon.default;
+  }
+});
+Object.defineProperty(exports, "FireAIcon", {
+  enumerable: true,
+  get: function get() {
+    return _FireAIcon.default;
+  }
+});
+Object.defineProperty(exports, "FireBIcon", {
+  enumerable: true,
+  get: function get() {
+    return _FireBIcon.default;
+  }
+});
+Object.defineProperty(exports, "FirstAidKitIcon", {
+  enumerable: true,
+  get: function get() {
+    return _FirstAidKitIcon.default;
+  }
+});
 Object.defineProperty(exports, "FlagIcon", {
   enumerable: true,
   get: function get() {
     return _FlagIcon.default;
+  }
+});
+Object.defineProperty(exports, "FocusIcon", {
+  enumerable: true,
+  get: function get() {
+    return _FocusIcon.default;
   }
 });
 Object.defineProperty(exports, "Folder2Icon", {
@@ -657,6 +1155,42 @@ Object.defineProperty(exports, "FolderPlusIcon", {
     return _FolderPlusIcon.default;
   }
 });
+Object.defineProperty(exports, "GameboyIcon", {
+  enumerable: true,
+  get: function get() {
+    return _GameboyIcon.default;
+  }
+});
+Object.defineProperty(exports, "GemAIcon", {
+  enumerable: true,
+  get: function get() {
+    return _GemAIcon.default;
+  }
+});
+Object.defineProperty(exports, "GemBIcon", {
+  enumerable: true,
+  get: function get() {
+    return _GemBIcon.default;
+  }
+});
+Object.defineProperty(exports, "GemCIcon", {
+  enumerable: true,
+  get: function get() {
+    return _GemCIcon.default;
+  }
+});
+Object.defineProperty(exports, "GemStoneIcon", {
+  enumerable: true,
+  get: function get() {
+    return _GemStoneIcon.default;
+  }
+});
+Object.defineProperty(exports, "GifIcon", {
+  enumerable: true,
+  get: function get() {
+    return _GifIcon.default;
+  }
+});
 Object.defineProperty(exports, "GiftIcon", {
   enumerable: true,
   get: function get() {
@@ -669,10 +1203,46 @@ Object.defineProperty(exports, "GlobeIcon", {
     return _GlobeIcon.default;
   }
 });
+Object.defineProperty(exports, "GoalsIcon", {
+  enumerable: true,
+  get: function get() {
+    return _GoalsIcon.default;
+  }
+});
+Object.defineProperty(exports, "HandicappedIcon", {
+  enumerable: true,
+  get: function get() {
+    return _HandicappedIcon.default;
+  }
+});
+Object.defineProperty(exports, "HeadphoneMuteIcon", {
+  enumerable: true,
+  get: function get() {
+    return _HeadphoneMuteIcon.default;
+  }
+});
+Object.defineProperty(exports, "HealthCircleIcon", {
+  enumerable: true,
+  get: function get() {
+    return _HealthCircleIcon.default;
+  }
+});
+Object.defineProperty(exports, "HealthSquareIcon", {
+  enumerable: true,
+  get: function get() {
+    return _HealthSquareIcon.default;
+  }
+});
 Object.defineProperty(exports, "HeaphoneIcon", {
   enumerable: true,
   get: function get() {
     return _HeaphoneIcon.default;
+  }
+});
+Object.defineProperty(exports, "HeartHealthIcon", {
+  enumerable: true,
+  get: function get() {
+    return _HeartHealthIcon.default;
   }
 });
 Object.defineProperty(exports, "HeartIcon", {
@@ -741,10 +1311,40 @@ Object.defineProperty(exports, "HomeSecurityLockIcon", {
     return _HomeSecurityLockIcon.default;
   }
 });
+Object.defineProperty(exports, "HospitalCircleIcon", {
+  enumerable: true,
+  get: function get() {
+    return _HospitalCircleIcon.default;
+  }
+});
+Object.defineProperty(exports, "HospitalPlusIcon", {
+  enumerable: true,
+  get: function get() {
+    return _HospitalPlusIcon.default;
+  }
+});
+Object.defineProperty(exports, "HospitalShieldIcon", {
+  enumerable: true,
+  get: function get() {
+    return _HospitalShieldIcon.default;
+  }
+});
+Object.defineProperty(exports, "HospitalSquareIcon", {
+  enumerable: true,
+  get: function get() {
+    return _HospitalSquareIcon.default;
+  }
+});
 Object.defineProperty(exports, "HourGlassIcon", {
   enumerable: true,
   get: function get() {
     return _HourGlassIcon.default;
+  }
+});
+Object.defineProperty(exports, "IdCardIcon", {
+  enumerable: true,
+  get: function get() {
+    return _IdCardIcon.default;
   }
 });
 Object.defineProperty(exports, "ImageIcon", {
@@ -753,16 +1353,64 @@ Object.defineProperty(exports, "ImageIcon", {
     return _ImageIcon.default;
   }
 });
+Object.defineProperty(exports, "InboxCheckIcon", {
+  enumerable: true,
+  get: function get() {
+    return _InboxCheckIcon.default;
+  }
+});
+Object.defineProperty(exports, "InboxCrossIcon", {
+  enumerable: true,
+  get: function get() {
+    return _InboxCrossIcon.default;
+  }
+});
+Object.defineProperty(exports, "InboxDownloadIcon", {
+  enumerable: true,
+  get: function get() {
+    return _InboxDownloadIcon.default;
+  }
+});
 Object.defineProperty(exports, "InboxIcon", {
   enumerable: true,
   get: function get() {
     return _InboxIcon.default;
   }
 });
+Object.defineProperty(exports, "InboxMinusIcon", {
+  enumerable: true,
+  get: function get() {
+    return _InboxMinusIcon.default;
+  }
+});
 Object.defineProperty(exports, "InboxNotificationIcon", {
   enumerable: true,
   get: function get() {
     return _InboxNotificationIcon.default;
+  }
+});
+Object.defineProperty(exports, "InboxPlusIcon", {
+  enumerable: true,
+  get: function get() {
+    return _InboxPlusIcon.default;
+  }
+});
+Object.defineProperty(exports, "InboxQuestionMarkIcon", {
+  enumerable: true,
+  get: function get() {
+    return _InboxQuestionMarkIcon.default;
+  }
+});
+Object.defineProperty(exports, "InboxStarIcon", {
+  enumerable: true,
+  get: function get() {
+    return _InboxStarIcon.default;
+  }
+});
+Object.defineProperty(exports, "InboxUploadIcon", {
+  enumerable: true,
+  get: function get() {
+    return _InboxUploadIcon.default;
   }
 });
 Object.defineProperty(exports, "InformationCircleIcon", {
@@ -775,6 +1423,12 @@ Object.defineProperty(exports, "InformationSquareIcon", {
   enumerable: true,
   get: function get() {
     return _InformationSquareIcon.default;
+  }
+});
+Object.defineProperty(exports, "KeyIcon", {
+  enumerable: true,
+  get: function get() {
+    return _KeyIcon.default;
   }
 });
 Object.defineProperty(exports, "KeyboardIcon", {
@@ -837,6 +1491,30 @@ Object.defineProperty(exports, "LayoutUpRightIcon", {
     return _LayoutUpRightIcon.default;
   }
 });
+Object.defineProperty(exports, "LensIcon", {
+  enumerable: true,
+  get: function get() {
+    return _LensIcon.default;
+  }
+});
+Object.defineProperty(exports, "LightBulbElectricityIcon", {
+  enumerable: true,
+  get: function get() {
+    return _LightBulbElectricityIcon.default;
+  }
+});
+Object.defineProperty(exports, "LightBulbIcon", {
+  enumerable: true,
+  get: function get() {
+    return _LightBulbIcon.default;
+  }
+});
+Object.defineProperty(exports, "LightBulbOffIcon", {
+  enumerable: true,
+  get: function get() {
+    return _LightBulbOffIcon.default;
+  }
+});
 Object.defineProperty(exports, "LocationIcon", {
   enumerable: true,
   get: function get() {
@@ -855,10 +1533,64 @@ Object.defineProperty(exports, "LockSquareIcon", {
     return _LockSquareIcon.default;
   }
 });
+Object.defineProperty(exports, "MagnetDownIcon", {
+  enumerable: true,
+  get: function get() {
+    return _MagnetDownIcon.default;
+  }
+});
+Object.defineProperty(exports, "MagnetLeftIcon", {
+  enumerable: true,
+  get: function get() {
+    return _MagnetLeftIcon.default;
+  }
+});
+Object.defineProperty(exports, "MagnetRightIcon", {
+  enumerable: true,
+  get: function get() {
+    return _MagnetRightIcon.default;
+  }
+});
+Object.defineProperty(exports, "MagnetUpIcon", {
+  enumerable: true,
+  get: function get() {
+    return _MagnetUpIcon.default;
+  }
+});
 Object.defineProperty(exports, "MapMarkerIcon", {
   enumerable: true,
   get: function get() {
     return _MapMarkerIcon.default;
+  }
+});
+Object.defineProperty(exports, "MediaReelHIcon", {
+  enumerable: true,
+  get: function get() {
+    return _MediaReelHIcon.default;
+  }
+});
+Object.defineProperty(exports, "MediaReelVIcon", {
+  enumerable: true,
+  get: function get() {
+    return _MediaReelVIcon.default;
+  }
+});
+Object.defineProperty(exports, "MegaphoneAIcon", {
+  enumerable: true,
+  get: function get() {
+    return _MegaphoneAIcon.default;
+  }
+});
+Object.defineProperty(exports, "MegaphoneBIcon", {
+  enumerable: true,
+  get: function get() {
+    return _MegaphoneBIcon.default;
+  }
+});
+Object.defineProperty(exports, "MemoryCardIcon", {
+  enumerable: true,
+  get: function get() {
+    return _MemoryCardIcon.default;
   }
 });
 Object.defineProperty(exports, "MessageCheckIcon", {
@@ -969,6 +1701,12 @@ Object.defineProperty(exports, "MicrophoneIcon", {
     return _MicrophoneIcon.default;
   }
 });
+Object.defineProperty(exports, "MicrophoneMuteIcon", {
+  enumerable: true,
+  get: function get() {
+    return _MicrophoneMuteIcon.default;
+  }
+});
 Object.defineProperty(exports, "MinusCircleIcon", {
   enumerable: true,
   get: function get() {
@@ -991,6 +1729,12 @@ Object.defineProperty(exports, "MoonIcon", {
   enumerable: true,
   get: function get() {
     return _MoonIcon.default;
+  }
+});
+Object.defineProperty(exports, "Mouse2Icon", {
+  enumerable: true,
+  get: function get() {
+    return _Mouse2Icon.default;
   }
 });
 Object.defineProperty(exports, "MouseIcon", {
@@ -1017,10 +1761,118 @@ Object.defineProperty(exports, "MultiplySquareIcon", {
     return _MultiplySquareIcon.default;
   }
 });
+Object.defineProperty(exports, "MusicAlternateIcon", {
+  enumerable: true,
+  get: function get() {
+    return _MusicAlternateIcon.default;
+  }
+});
+Object.defineProperty(exports, "MusicCircleIcon", {
+  enumerable: true,
+  get: function get() {
+    return _MusicCircleIcon.default;
+  }
+});
+Object.defineProperty(exports, "MusicIcon", {
+  enumerable: true,
+  get: function get() {
+    return _MusicIcon.default;
+  }
+});
+Object.defineProperty(exports, "MusicSquareIcon", {
+  enumerable: true,
+  get: function get() {
+    return _MusicSquareIcon.default;
+  }
+});
 Object.defineProperty(exports, "NextIcon", {
   enumerable: true,
   get: function get() {
     return _NextIcon.default;
+  }
+});
+Object.defineProperty(exports, "NoteIcon", {
+  enumerable: true,
+  get: function get() {
+    return _NoteIcon.default;
+  }
+});
+Object.defineProperty(exports, "NoteTextIcon", {
+  enumerable: true,
+  get: function get() {
+    return _NoteTextIcon.default;
+  }
+});
+Object.defineProperty(exports, "NoteWithTextIcon", {
+  enumerable: true,
+  get: function get() {
+    return _NoteWithTextIcon.default;
+  }
+});
+Object.defineProperty(exports, "NotificationBellCheckIcon", {
+  enumerable: true,
+  get: function get() {
+    return _NotificationBellCheckIcon.default;
+  }
+});
+Object.defineProperty(exports, "NotificationBellCrossIcon", {
+  enumerable: true,
+  get: function get() {
+    return _NotificationBellCrossIcon.default;
+  }
+});
+Object.defineProperty(exports, "NotificationBellDownloadIcon", {
+  enumerable: true,
+  get: function get() {
+    return _NotificationBellDownloadIcon.default;
+  }
+});
+Object.defineProperty(exports, "NotificationBellIcon", {
+  enumerable: true,
+  get: function get() {
+    return _NotificationBellIcon.default;
+  }
+});
+Object.defineProperty(exports, "NotificationBellMinusIcon", {
+  enumerable: true,
+  get: function get() {
+    return _NotificationBellMinusIcon.default;
+  }
+});
+Object.defineProperty(exports, "NotificationBellMutedIcon", {
+  enumerable: true,
+  get: function get() {
+    return _NotificationBellMutedIcon.default;
+  }
+});
+Object.defineProperty(exports, "NotificationBellPendingIcon", {
+  enumerable: true,
+  get: function get() {
+    return _NotificationBellPendingIcon.default;
+  }
+});
+Object.defineProperty(exports, "NotificationBellPlusIcon", {
+  enumerable: true,
+  get: function get() {
+    return _NotificationBellPlusIcon.default;
+  }
+});
+Object.defineProperty(exports, "NotificationBellQuestionMarkIcon", {
+  enumerable: true,
+  get: function get() {
+    return _NotificationBellQuestionMarkIcon.default;
+  }
+});
+Object.defineProperty(exports, "NotificationBellSnooze2Icon", {
+  enumerable: true,
+  get: function get() {
+    return _NotificationBellSnooze2Icon.default;
+  }
+});
+Object.defineProperty(exports, "NotificationBellUploadIcon", {
+  enumerable: true,
+  get: function get() {
+    return _NotificationBellUploadIcon.default;
   }
 });
 Object.defineProperty(exports, "PackageBoxIcon", {
@@ -1131,6 +1983,18 @@ Object.defineProperty(exports, "PlaySquareIcon", {
     return _PlaySquareIcon.default;
   }
 });
+Object.defineProperty(exports, "PlaylistAlternateIcon", {
+  enumerable: true,
+  get: function get() {
+    return _PlaylistAlternateIcon.default;
+  }
+});
+Object.defineProperty(exports, "PlaylistIcon", {
+  enumerable: true,
+  get: function get() {
+    return _PlaylistIcon.default;
+  }
+});
 Object.defineProperty(exports, "PlusCircleIcon", {
   enumerable: true,
   get: function get() {
@@ -1141,6 +2005,18 @@ Object.defineProperty(exports, "PlusSquareIcon", {
   enumerable: true,
   get: function get() {
     return _PlusSquareIcon.default;
+  }
+});
+Object.defineProperty(exports, "PreviewCircleIcon", {
+  enumerable: true,
+  get: function get() {
+    return _PreviewCircleIcon.default;
+  }
+});
+Object.defineProperty(exports, "PreviewIcon", {
+  enumerable: true,
+  get: function get() {
+    return _PreviewIcon.default;
   }
 });
 Object.defineProperty(exports, "PreviousIcon", {
@@ -1155,6 +2031,12 @@ Object.defineProperty(exports, "PrinterIcon", {
     return _PrinterIcon.default;
   }
 });
+Object.defineProperty(exports, "QrCodeIcon", {
+  enumerable: true,
+  get: function get() {
+    return _QrCodeIcon.default;
+  }
+});
 Object.defineProperty(exports, "QuestionMarkCircleIcon", {
   enumerable: true,
   get: function get() {
@@ -1165,6 +2047,96 @@ Object.defineProperty(exports, "QuestionMarkSquareIcon", {
   enumerable: true,
   get: function get() {
     return _QuestionMarkSquareIcon.default;
+  }
+});
+Object.defineProperty(exports, "RibbonIcon", {
+  enumerable: true,
+  get: function get() {
+    return _RibbonIcon.default;
+  }
+});
+Object.defineProperty(exports, "RobotAppreciateIcon", {
+  enumerable: true,
+  get: function get() {
+    return _RobotAppreciateIcon.default;
+  }
+});
+Object.defineProperty(exports, "RobotDeadIcon", {
+  enumerable: true,
+  get: function get() {
+    return _RobotDeadIcon.default;
+  }
+});
+Object.defineProperty(exports, "RobotHappyIcon", {
+  enumerable: true,
+  get: function get() {
+    return _RobotHappyIcon.default;
+  }
+});
+Object.defineProperty(exports, "RobotIcon", {
+  enumerable: true,
+  get: function get() {
+    return _RobotIcon.default;
+  }
+});
+Object.defineProperty(exports, "RobotSadIcon", {
+  enumerable: true,
+  get: function get() {
+    return _RobotSadIcon.default;
+  }
+});
+Object.defineProperty(exports, "RobotScreenIcon", {
+  enumerable: true,
+  get: function get() {
+    return _RobotScreenIcon.default;
+  }
+});
+Object.defineProperty(exports, "RobotUwuIcon", {
+  enumerable: true,
+  get: function get() {
+    return _RobotUwuIcon.default;
+  }
+});
+Object.defineProperty(exports, "RobotWinkIcon", {
+  enumerable: true,
+  get: function get() {
+    return _RobotWinkIcon.default;
+  }
+});
+Object.defineProperty(exports, "RocketIcon", {
+  enumerable: true,
+  get: function get() {
+    return _RocketIcon.default;
+  }
+});
+Object.defineProperty(exports, "RoundStickerIcon", {
+  enumerable: true,
+  get: function get() {
+    return _RoundStickerIcon.default;
+  }
+});
+Object.defineProperty(exports, "SaveFloppyIcon", {
+  enumerable: true,
+  get: function get() {
+    return _SaveFloppyIcon.default;
+  }
+});
+Object.defineProperty(exports, "ScanUserIcon", {
+  enumerable: true,
+  get: function get() {
+    return _ScanUserIcon.default;
+  }
+});
+Object.defineProperty(exports, "ScreencastIcon", {
+  enumerable: true,
+  get: function get() {
+    return _ScreencastIcon.default;
+  }
+});
+Object.defineProperty(exports, "SearchIcon", {
+  enumerable: true,
+  get: function get() {
+    return _SearchIcon.default;
   }
 });
 Object.defineProperty(exports, "SearchSquareIcon", {
@@ -1251,16 +2223,64 @@ Object.defineProperty(exports, "ShoppingCartIcon", {
     return _ShoppingCartIcon.default;
   }
 });
+Object.defineProperty(exports, "ShutDownIcon", {
+  enumerable: true,
+  get: function get() {
+    return _ShutDownIcon.default;
+  }
+});
+Object.defineProperty(exports, "SimCardIcon", {
+  enumerable: true,
+  get: function get() {
+    return _SimCardIcon.default;
+  }
+});
 Object.defineProperty(exports, "StackIcon", {
   enumerable: true,
   get: function get() {
     return _StackIcon.default;
   }
 });
+Object.defineProperty(exports, "StarCircleIcon", {
+  enumerable: true,
+  get: function get() {
+    return _StarCircleIcon.default;
+  }
+});
 Object.defineProperty(exports, "StarIcon", {
   enumerable: true,
   get: function get() {
     return _StarIcon.default;
+  }
+});
+Object.defineProperty(exports, "StarMovingIcon", {
+  enumerable: true,
+  get: function get() {
+    return _StarMovingIcon.default;
+  }
+});
+Object.defineProperty(exports, "StarSquareIcon", {
+  enumerable: true,
+  get: function get() {
+    return _StarSquareIcon.default;
+  }
+});
+Object.defineProperty(exports, "StarsAIcon", {
+  enumerable: true,
+  get: function get() {
+    return _StarsAIcon.default;
+  }
+});
+Object.defineProperty(exports, "StarsBIcon", {
+  enumerable: true,
+  get: function get() {
+    return _StarsBIcon.default;
+  }
+});
+Object.defineProperty(exports, "StarsCIcon", {
+  enumerable: true,
+  get: function get() {
+    return _StarsCIcon.default;
   }
 });
 Object.defineProperty(exports, "StopCircleIcon", {
@@ -1287,10 +2307,10 @@ Object.defineProperty(exports, "SunIcon", {
     return _SunIcon.default;
   }
 });
-Object.defineProperty(exports, "SwimRingIcon", {
+Object.defineProperty(exports, "TabletIcon", {
   enumerable: true,
   get: function get() {
-    return _SwimRingIcon.default;
+    return _TabletIcon.default;
   }
 });
 Object.defineProperty(exports, "Tag2Icon", {
@@ -1335,16 +2355,52 @@ Object.defineProperty(exports, "TagQuestionMarkIcon", {
     return _TagQuestionMarkIcon.default;
   }
 });
+Object.defineProperty(exports, "TelevisionCheckIcon", {
+  enumerable: true,
+  get: function get() {
+    return _TelevisionCheckIcon.default;
+  }
+});
+Object.defineProperty(exports, "TelevisionCrossIcon", {
+  enumerable: true,
+  get: function get() {
+    return _TelevisionCrossIcon.default;
+  }
+});
+Object.defineProperty(exports, "TelevisionDownloadIcon", {
+  enumerable: true,
+  get: function get() {
+    return _TelevisionDownloadIcon.default;
+  }
+});
 Object.defineProperty(exports, "TelevisionIcon", {
   enumerable: true,
   get: function get() {
     return _TelevisionIcon.default;
   }
 });
-Object.defineProperty(exports, "ThreeDBoxIcon", {
+Object.defineProperty(exports, "TelevisionMinusIcon", {
   enumerable: true,
   get: function get() {
-    return _ThreeDBoxIcon.default;
+    return _TelevisionMinusIcon.default;
+  }
+});
+Object.defineProperty(exports, "TelevisionPlusIcon", {
+  enumerable: true,
+  get: function get() {
+    return _TelevisionPlusIcon.default;
+  }
+});
+Object.defineProperty(exports, "TelevisionQuestionMarkIcon", {
+  enumerable: true,
+  get: function get() {
+    return _TelevisionQuestionMarkIcon.default;
+  }
+});
+Object.defineProperty(exports, "TelevisionUploadIcon", {
+  enumerable: true,
+  get: function get() {
+    return _TelevisionUploadIcon.default;
   }
 });
 Object.defineProperty(exports, "ThreeDBoxSquareIcon", {
@@ -1389,10 +2445,52 @@ Object.defineProperty(exports, "TrashSquareIcon", {
     return _TrashSquareIcon.default;
   }
 });
+Object.defineProperty(exports, "TrophyCircleIcon", {
+  enumerable: true,
+  get: function get() {
+    return _TrophyCircleIcon.default;
+  }
+});
+Object.defineProperty(exports, "TrophyDownIcon", {
+  enumerable: true,
+  get: function get() {
+    return _TrophyDownIcon.default;
+  }
+});
+Object.defineProperty(exports, "TrophyIcon", {
+  enumerable: true,
+  get: function get() {
+    return _TrophyIcon.default;
+  }
+});
+Object.defineProperty(exports, "TrophyStarIcon", {
+  enumerable: true,
+  get: function get() {
+    return _TrophyStarIcon.default;
+  }
+});
+Object.defineProperty(exports, "TrophyUpIcon", {
+  enumerable: true,
+  get: function get() {
+    return _TrophyUpIcon.default;
+  }
+});
+Object.defineProperty(exports, "TubeIcon", {
+  enumerable: true,
+  get: function get() {
+    return _TubeIcon.default;
+  }
+});
 Object.defineProperty(exports, "UnlockedIcon", {
   enumerable: true,
   get: function get() {
     return _UnlockedIcon.default;
+  }
+});
+Object.defineProperty(exports, "UserCheckIcon", {
+  enumerable: true,
+  get: function get() {
+    return _UserCheckIcon.default;
   }
 });
 Object.defineProperty(exports, "UserCircleIcon", {
@@ -1401,10 +2499,34 @@ Object.defineProperty(exports, "UserCircleIcon", {
     return _UserCircleIcon.default;
   }
 });
+Object.defineProperty(exports, "UserCrossIcon", {
+  enumerable: true,
+  get: function get() {
+    return _UserCrossIcon.default;
+  }
+});
 Object.defineProperty(exports, "UserIcon", {
   enumerable: true,
   get: function get() {
     return _UserIcon.default;
+  }
+});
+Object.defineProperty(exports, "UserMinusIcon", {
+  enumerable: true,
+  get: function get() {
+    return _UserMinusIcon.default;
+  }
+});
+Object.defineProperty(exports, "UserPlusIcon", {
+  enumerable: true,
+  get: function get() {
+    return _UserPlusIcon.default;
+  }
+});
+Object.defineProperty(exports, "UserQuestionMarkIcon", {
+  enumerable: true,
+  get: function get() {
+    return _UserQuestionMarkIcon.default;
   }
 });
 Object.defineProperty(exports, "UserSquareIcon", {
@@ -1413,10 +2535,70 @@ Object.defineProperty(exports, "UserSquareIcon", {
     return _UserSquareIcon.default;
   }
 });
-Object.defineProperty(exports, "VideoCameraIcon", {
+Object.defineProperty(exports, "UsersIcon", {
   enumerable: true,
   get: function get() {
-    return _VideoCameraIcon.default;
+    return _UsersIcon.default;
+  }
+});
+Object.defineProperty(exports, "VerifiedCheckIcon", {
+  enumerable: true,
+  get: function get() {
+    return _VerifiedCheckIcon.default;
+  }
+});
+Object.defineProperty(exports, "VideoCheckIcon", {
+  enumerable: true,
+  get: function get() {
+    return _VideoCheckIcon.default;
+  }
+});
+Object.defineProperty(exports, "VideoCrossIcon", {
+  enumerable: true,
+  get: function get() {
+    return _VideoCrossIcon.default;
+  }
+});
+Object.defineProperty(exports, "VideoDownloadIcon", {
+  enumerable: true,
+  get: function get() {
+    return _VideoDownloadIcon.default;
+  }
+});
+Object.defineProperty(exports, "VideoIcon", {
+  enumerable: true,
+  get: function get() {
+    return _VideoIcon.default;
+  }
+});
+Object.defineProperty(exports, "VideoMinusIcon", {
+  enumerable: true,
+  get: function get() {
+    return _VideoMinusIcon.default;
+  }
+});
+Object.defineProperty(exports, "VideoPlayerIcon", {
+  enumerable: true,
+  get: function get() {
+    return _VideoPlayerIcon.default;
+  }
+});
+Object.defineProperty(exports, "VideoPlusIcon", {
+  enumerable: true,
+  get: function get() {
+    return _VideoPlusIcon.default;
+  }
+});
+Object.defineProperty(exports, "VideoQuestionMarkIcon", {
+  enumerable: true,
+  get: function get() {
+    return _VideoQuestionMarkIcon.default;
+  }
+});
+Object.defineProperty(exports, "VideoUploadIcon", {
+  enumerable: true,
+  get: function get() {
+    return _VideoUploadIcon.default;
   }
 });
 Object.defineProperty(exports, "VoicemailIcon", {
@@ -1449,6 +2631,42 @@ Object.defineProperty(exports, "VolumeZeroIcon", {
     return _VolumeZeroIcon.default;
   }
 });
+Object.defineProperty(exports, "WaterDropIcon", {
+  enumerable: true,
+  get: function get() {
+    return _WaterDropIcon.default;
+  }
+});
+Object.defineProperty(exports, "WaterGlassIcon", {
+  enumerable: true,
+  get: function get() {
+    return _WaterGlassIcon.default;
+  }
+});
+Object.defineProperty(exports, "WrenchIcon", {
+  enumerable: true,
+  get: function get() {
+    return _WrenchIcon.default;
+  }
+});
+Object.defineProperty(exports, "ZapCircleIcon", {
+  enumerable: true,
+  get: function get() {
+    return _ZapCircleIcon.default;
+  }
+});
+Object.defineProperty(exports, "ZapIcon", {
+  enumerable: true,
+  get: function get() {
+    return _ZapIcon.default;
+  }
+});
+Object.defineProperty(exports, "ZapSquareIcon", {
+  enumerable: true,
+  get: function get() {
+    return _ZapSquareIcon.default;
+  }
+});
 Object.defineProperty(exports, "ZoomInIcon", {
   enumerable: true,
   get: function get() {
@@ -1461,6 +2679,13 @@ Object.defineProperty(exports, "ZoomOutIcon", {
     return _ZoomOutIcon.default;
   }
 });
+var _DashboardChartIcon = _interopRequireDefault(require("./DashboardChartIcon"));
+var _DashboardBarIcon = _interopRequireDefault(require("./DashboardBarIcon"));
+var _DashboardCircleChartIcon = _interopRequireDefault(require("./DashboardCircleChartIcon"));
+var _DashboardCircleBarIcon = _interopRequireDefault(require("./DashboardCircleBarIcon"));
+var _DashboardChartArrowIcon = _interopRequireDefault(require("./DashboardChartArrowIcon"));
+var _DoubleCircleIcon = _interopRequireDefault(require("./DoubleCircleIcon"));
+var _DoubleSquareIcon = _interopRequireDefault(require("./DoubleSquareIcon"));
 var _HomeIcon = _interopRequireDefault(require("./HomeIcon"));
 var _Home2Icon = _interopRequireDefault(require("./Home2Icon"));
 var _Home3Icon = _interopRequireDefault(require("./Home3Icon"));
@@ -1470,21 +2695,58 @@ var _HomePlusIcon = _interopRequireDefault(require("./HomePlusIcon"));
 var _HomeCheckIcon = _interopRequireDefault(require("./HomeCheckIcon"));
 var _HomeHeartIcon = _interopRequireDefault(require("./HomeHeartIcon"));
 var _HomeSecurityLockIcon = _interopRequireDefault(require("./HomeSecurityLockIcon"));
+var _BuildingAIcon = _interopRequireDefault(require("./BuildingAIcon"));
+var _BuildingBIcon = _interopRequireDefault(require("./BuildingBIcon"));
+var _BuildingTreeIcon = _interopRequireDefault(require("./BuildingTreeIcon"));
 var _HeartIcon = _interopRequireDefault(require("./HeartIcon"));
 var _TrashIcon = _interopRequireDefault(require("./TrashIcon"));
 var _Trash2Icon = _interopRequireDefault(require("./Trash2Icon"));
 var _Trash3Icon = _interopRequireDefault(require("./Trash3Icon"));
+var _SaveFloppyIcon = _interopRequireDefault(require("./SaveFloppyIcon"));
 var _CreditCardIcon = _interopRequireDefault(require("./CreditCardIcon"));
+var _IdCardIcon = _interopRequireDefault(require("./IdCardIcon"));
 var _SettingsIcon = _interopRequireDefault(require("./SettingsIcon"));
+var _BoltIcon = _interopRequireDefault(require("./BoltIcon"));
 var _EmailIcon = _interopRequireDefault(require("./EmailIcon"));
+var _EmailOpenedIcon = _interopRequireDefault(require("./EmailOpenedIcon"));
 var _GlobeIcon = _interopRequireDefault(require("./GlobeIcon"));
+var _EarthIcon = _interopRequireDefault(require("./EarthIcon"));
 var _ShopIcon = _interopRequireDefault(require("./ShopIcon"));
 var _ShoppingCartIcon = _interopRequireDefault(require("./ShoppingCartIcon"));
 var _ShoppingBagIcon = _interopRequireDefault(require("./ShoppingBagIcon"));
-var _BellNotificationIcon = _interopRequireDefault(require("./BellNotificationIcon"));
-var _BellNotificationMutedIcon = _interopRequireDefault(require("./BellNotificationMutedIcon"));
-var _ThreeDBoxIcon = _interopRequireDefault(require("./ThreeDBoxIcon"));
+var _BasketIcon = _interopRequireDefault(require("./BasketIcon"));
+var _BagAIcon = _interopRequireDefault(require("./BagAIcon"));
+var _BagBIcon = _interopRequireDefault(require("./BagBIcon"));
+var _BriefcaseIcon = _interopRequireDefault(require("./BriefcaseIcon"));
+var _DollarIcon = _interopRequireDefault(require("./DollarIcon"));
+var _CoinAIcon = _interopRequireDefault(require("./CoinAIcon"));
+var _CoinBIcon = _interopRequireDefault(require("./CoinBIcon"));
+var _VerifiedCheckIcon = _interopRequireDefault(require("./VerifiedCheckIcon"));
+var _RibbonIcon = _interopRequireDefault(require("./RibbonIcon"));
+var _NotificationBellIcon = _interopRequireDefault(require("./NotificationBellIcon"));
+var _NotificationBellPendingIcon = _interopRequireDefault(require("./NotificationBellPendingIcon"));
+var _NotificationBellMutedIcon = _interopRequireDefault(require("./NotificationBellMutedIcon"));
+var _NotificationBellSnooze2Icon = _interopRequireDefault(require("./NotificationBellSnooze2Icon"));
+var _NotificationBellPlusIcon = _interopRequireDefault(require("./NotificationBellPlusIcon"));
+var _NotificationBellMinusIcon = _interopRequireDefault(require("./NotificationBellMinusIcon"));
+var _NotificationBellDownloadIcon = _interopRequireDefault(require("./NotificationBellDownloadIcon"));
+var _NotificationBellUploadIcon = _interopRequireDefault(require("./NotificationBellUploadIcon"));
+var _NotificationBellCheckIcon = _interopRequireDefault(require("./NotificationBellCheckIcon"));
+var _NotificationBellCrossIcon = _interopRequireDefault(require("./NotificationBellCrossIcon"));
+var _NotificationBellQuestionMarkIcon = _interopRequireDefault(require("./NotificationBellQuestionMarkIcon"));
+var _Box3dIcon = _interopRequireDefault(require("./Box3dIcon"));
+var _Box3dPlusIcon = _interopRequireDefault(require("./Box3dPlusIcon"));
+var _Box3dMinusIcon = _interopRequireDefault(require("./Box3dMinusIcon"));
+var _Box3dUploadIcon = _interopRequireDefault(require("./Box3dUploadIcon"));
+var _Box3dDownloadIcon = _interopRequireDefault(require("./Box3dDownloadIcon"));
+var _Box3dNotificationIcon = _interopRequireDefault(require("./Box3dNotificationIcon"));
+var _Box3dCheckIcon = _interopRequireDefault(require("./Box3dCheckIcon"));
+var _Box3dCrossIcon = _interopRequireDefault(require("./Box3dCrossIcon"));
+var _Box3dQuestionMarkIcon = _interopRequireDefault(require("./Box3dQuestionMarkIcon"));
+var _Box3dScanIcon = _interopRequireDefault(require("./Box3dScanIcon"));
 var _PackageBoxIcon = _interopRequireDefault(require("./PackageBoxIcon"));
+var _DeliveryTruckIcon = _interopRequireDefault(require("./DeliveryTruckIcon"));
+var _SearchIcon = _interopRequireDefault(require("./SearchIcon"));
 var _StackIcon = _interopRequireDefault(require("./StackIcon"));
 var _SecurityShieldIcon = _interopRequireDefault(require("./SecurityShieldIcon"));
 var _ShieldCrossIcon = _interopRequireDefault(require("./ShieldCrossIcon"));
@@ -1493,10 +2755,20 @@ var _ShieldPlusIcon = _interopRequireDefault(require("./ShieldPlusIcon"));
 var _ShiledMinusIcon = _interopRequireDefault(require("./ShiledMinusIcon"));
 var _ShieldQuestionMarkIcon = _interopRequireDefault(require("./ShieldQuestionMarkIcon"));
 var _EyeIcon = _interopRequireDefault(require("./EyeIcon"));
+var _EyeOffIcon = _interopRequireDefault(require("./EyeOffIcon"));
+var _KeyIcon = _interopRequireDefault(require("./KeyIcon"));
+var _ScanUserIcon = _interopRequireDefault(require("./ScanUserIcon"));
+var _QrCodeIcon = _interopRequireDefault(require("./QrCodeIcon"));
 var _LockIcon = _interopRequireDefault(require("./LockIcon"));
 var _UnlockedIcon = _interopRequireDefault(require("./UnlockedIcon"));
 var _MoonIcon = _interopRequireDefault(require("./MoonIcon"));
 var _StarIcon = _interopRequireDefault(require("./StarIcon"));
+var _StarsAIcon = _interopRequireDefault(require("./StarsAIcon"));
+var _StarsBIcon = _interopRequireDefault(require("./StarsBIcon"));
+var _StarsCIcon = _interopRequireDefault(require("./StarsCIcon"));
+var _StarSquareIcon = _interopRequireDefault(require("./StarSquareIcon"));
+var _StarCircleIcon = _interopRequireDefault(require("./StarCircleIcon"));
+var _StarMovingIcon = _interopRequireDefault(require("./StarMovingIcon"));
 var _SunIcon = _interopRequireDefault(require("./SunIcon"));
 var _CancelIcon = _interopRequireDefault(require("./CancelIcon"));
 var _AlarmClockIcon = _interopRequireDefault(require("./AlarmClockIcon"));
@@ -1505,6 +2777,13 @@ var _HourGlassIcon = _interopRequireDefault(require("./HourGlassIcon"));
 var _CalendarIcon = _interopRequireDefault(require("./CalendarIcon"));
 var _Calendar2Icon = _interopRequireDefault(require("./Calendar2Icon"));
 var _Calendar3Icon = _interopRequireDefault(require("./Calendar3Icon"));
+var _CalendarPlusIcon = _interopRequireDefault(require("./CalendarPlusIcon"));
+var _CalendarMinusIcon = _interopRequireDefault(require("./CalendarMinusIcon"));
+var _CalendarDownloadIcon = _interopRequireDefault(require("./CalendarDownloadIcon"));
+var _CalendarUploadIcon = _interopRequireDefault(require("./CalendarUploadIcon"));
+var _CalendarCheckIcon = _interopRequireDefault(require("./CalendarCheckIcon"));
+var _CalendarCrossIcon = _interopRequireDefault(require("./CalendarCrossIcon"));
+var _CalendarQuestionMarkIcon = _interopRequireDefault(require("./CalendarQuestionMarkIcon"));
 var _FolderIcon = _interopRequireDefault(require("./FolderIcon"));
 var _Folder2Icon = _interopRequireDefault(require("./Folder2Icon"));
 var _FolderPlusIcon = _interopRequireDefault(require("./FolderPlusIcon"));
@@ -1524,7 +2803,23 @@ var _FileUploadIcon = _interopRequireDefault(require("./FileUploadIcon"));
 var _FileCheckIcon = _interopRequireDefault(require("./FileCheckIcon"));
 var _FileQuestionMarkIcon = _interopRequireDefault(require("./FileQuestionMarkIcon"));
 var _FileCrossIcon = _interopRequireDefault(require("./FileCrossIcon"));
-var _ArchiveBoxIcon = _interopRequireDefault(require("./ArchiveBoxIcon"));
+var _BookIcon = _interopRequireDefault(require("./BookIcon"));
+var _BookTextIcon = _interopRequireDefault(require("./BookTextIcon"));
+var _NoteIcon = _interopRequireDefault(require("./NoteIcon"));
+var _NoteWithTextIcon = _interopRequireDefault(require("./NoteWithTextIcon"));
+var _RoundStickerIcon = _interopRequireDefault(require("./RoundStickerIcon"));
+var _NoteTextIcon = _interopRequireDefault(require("./NoteTextIcon"));
+var _ChecklistNoteIcon = _interopRequireDefault(require("./ChecklistNoteIcon"));
+var _ContactBookIcon = _interopRequireDefault(require("./ContactBookIcon"));
+var _ArchiveIcon = _interopRequireDefault(require("./ArchiveIcon"));
+var _BoxIcon = _interopRequireDefault(require("./BoxIcon"));
+var _BoxPlusIcon = _interopRequireDefault(require("./BoxPlusIcon"));
+var _BoxMinusIcon = _interopRequireDefault(require("./BoxMinusIcon"));
+var _BoxUploadIcon = _interopRequireDefault(require("./BoxUploadIcon"));
+var _BoxCheckIcon = _interopRequireDefault(require("./BoxCheckIcon"));
+var _BoxCrossIcon = _interopRequireDefault(require("./BoxCrossIcon"));
+var _BoxQuestionMarkIcon = _interopRequireDefault(require("./BoxQuestionMarkIcon"));
+var _ArchiveDrawerIcon = _interopRequireDefault(require("./ArchiveDrawerIcon"));
 var _CopyIcon = _interopRequireDefault(require("./CopyIcon"));
 var _EditIcon = _interopRequireDefault(require("./EditIcon"));
 var _PenIcon = _interopRequireDefault(require("./PenIcon"));
@@ -1534,10 +2829,70 @@ var _ZoomOutIcon = _interopRequireDefault(require("./ZoomOutIcon"));
 var _ShareIcon = _interopRequireDefault(require("./ShareIcon"));
 var _FlagIcon = _interopRequireDefault(require("./FlagIcon"));
 var _BookmarkIcon = _interopRequireDefault(require("./BookmarkIcon"));
+var _BookmarkPlusIcon = _interopRequireDefault(require("./BookmarkPlusIcon"));
+var _BookmarkMinusIcon = _interopRequireDefault(require("./BookmarkMinusIcon"));
+var _BookmarkDownloadIcon = _interopRequireDefault(require("./BookmarkDownloadIcon"));
+var _BookmarkUploadIcon = _interopRequireDefault(require("./BookmarkUploadIcon"));
+var _BookmarkCheckIcon = _interopRequireDefault(require("./BookmarkCheckIcon"));
+var _BookmarkCrossIcon = _interopRequireDefault(require("./BookmarkCrossIcon"));
+var _BookmarkQuestionMarkIcon = _interopRequireDefault(require("./BookmarkQuestionMarkIcon"));
 var _FilterIcon = _interopRequireDefault(require("./FilterIcon"));
 var _Filter2Icon = _interopRequireDefault(require("./Filter2Icon"));
+var _FilterSquareIcon = _interopRequireDefault(require("./FilterSquareIcon"));
 var _UserIcon = _interopRequireDefault(require("./UserIcon"));
-var _SwimRingIcon = _interopRequireDefault(require("./SwimRingIcon"));
+var _UsersIcon = _interopRequireDefault(require("./UsersIcon"));
+var _UserPlusIcon = _interopRequireDefault(require("./UserPlusIcon"));
+var _UserMinusIcon = _interopRequireDefault(require("./UserMinusIcon"));
+var _UserCheckIcon = _interopRequireDefault(require("./UserCheckIcon"));
+var _UserCrossIcon = _interopRequireDefault(require("./UserCrossIcon"));
+var _UserQuestionMarkIcon = _interopRequireDefault(require("./UserQuestionMarkIcon"));
+var _TubeIcon = _interopRequireDefault(require("./TubeIcon"));
+var _MagnetUpIcon = _interopRequireDefault(require("./MagnetUpIcon"));
+var _MagnetRightIcon = _interopRequireDefault(require("./MagnetRightIcon"));
+var _MagnetDownIcon = _interopRequireDefault(require("./MagnetDownIcon"));
+var _MagnetLeftIcon = _interopRequireDefault(require("./MagnetLeftIcon"));
+var _ZapIcon = _interopRequireDefault(require("./ZapIcon"));
+var _ZapCircleIcon = _interopRequireDefault(require("./ZapCircleIcon"));
+var _ZapSquareIcon = _interopRequireDefault(require("./ZapSquareIcon"));
+var _ElectricityIcon = _interopRequireDefault(require("./ElectricityIcon"));
+var _ElectricityDangerIcon = _interopRequireDefault(require("./ElectricityDangerIcon"));
+var _LightBulbIcon = _interopRequireDefault(require("./LightBulbIcon"));
+var _LightBulbOffIcon = _interopRequireDefault(require("./LightBulbOffIcon"));
+var _LightBulbElectricityIcon = _interopRequireDefault(require("./LightBulbElectricityIcon"));
+var _WaterDropIcon = _interopRequireDefault(require("./WaterDropIcon"));
+var _FireAIcon = _interopRequireDefault(require("./FireAIcon"));
+var _FireBIcon = _interopRequireDefault(require("./FireBIcon"));
+var _GemStoneIcon = _interopRequireDefault(require("./GemStoneIcon"));
+var _GemAIcon = _interopRequireDefault(require("./GemAIcon"));
+var _GemBIcon = _interopRequireDefault(require("./GemBIcon"));
+var _GemCIcon = _interopRequireDefault(require("./GemCIcon"));
+var _WrenchIcon = _interopRequireDefault(require("./WrenchIcon"));
+var _DoubleDiamondIcon = _interopRequireDefault(require("./DoubleDiamondIcon"));
+var _ShutDownIcon = _interopRequireDefault(require("./ShutDownIcon"));
+var _ColorSwatchIcon = _interopRequireDefault(require("./ColorSwatchIcon"));
+var _ColorPickerIcon = _interopRequireDefault(require("./ColorPickerIcon"));
+var _HeartHealthIcon = _interopRequireDefault(require("./HeartHealthIcon"));
+var _HealthSquareIcon = _interopRequireDefault(require("./HealthSquareIcon"));
+var _HealthCircleIcon = _interopRequireDefault(require("./HealthCircleIcon"));
+var _HospitalCircleIcon = _interopRequireDefault(require("./HospitalCircleIcon"));
+var _HospitalSquareIcon = _interopRequireDefault(require("./HospitalSquareIcon"));
+var _HospitalShieldIcon = _interopRequireDefault(require("./HospitalShieldIcon"));
+var _FirstAidKitIcon = _interopRequireDefault(require("./FirstAidKitIcon"));
+var _HandicappedIcon = _interopRequireDefault(require("./HandicappedIcon"));
+var _HospitalPlusIcon = _interopRequireDefault(require("./HospitalPlusIcon"));
+var _TabletIcon = _interopRequireDefault(require("./TabletIcon"));
+var _MegaphoneAIcon = _interopRequireDefault(require("./MegaphoneAIcon"));
+var _MegaphoneBIcon = _interopRequireDefault(require("./MegaphoneBIcon"));
+var _CrownAIcon = _interopRequireDefault(require("./CrownAIcon"));
+var _CrownBIcon = _interopRequireDefault(require("./CrownBIcon"));
+var _TrophyIcon = _interopRequireDefault(require("./TrophyIcon"));
+var _TrophyStarIcon = _interopRequireDefault(require("./TrophyStarIcon"));
+var _TrophyCircleIcon = _interopRequireDefault(require("./TrophyCircleIcon"));
+var _TrophyUpIcon = _interopRequireDefault(require("./TrophyUpIcon"));
+var _TrophyDownIcon = _interopRequireDefault(require("./TrophyDownIcon"));
+var _GoalsIcon = _interopRequireDefault(require("./GoalsIcon"));
+var _CupHotIcon = _interopRequireDefault(require("./CupHotIcon"));
+var _WaterGlassIcon = _interopRequireDefault(require("./WaterGlassIcon"));
 var _ThumbsUpIcon = _interopRequireDefault(require("./ThumbsUpIcon"));
 var _ThumbsDownIcon = _interopRequireDefault(require("./ThumbsDownIcon"));
 var _PinIcon = _interopRequireDefault(require("./PinIcon"));
@@ -1553,6 +2908,7 @@ var _DirectionRight2Icon = _interopRequireDefault(require("./DirectionRight2Icon
 var _DirectionUpRight2Icon = _interopRequireDefault(require("./DirectionUpRight2Icon"));
 var _ExclamationTriangleIcon = _interopRequireDefault(require("./ExclamationTriangleIcon"));
 var _ExclamationHexagonIcon = _interopRequireDefault(require("./ExclamationHexagonIcon"));
+var _DoubleArrowCircleIcon = _interopRequireDefault(require("./DoubleArrowCircleIcon"));
 var _ArrowRightCircleIcon = _interopRequireDefault(require("./ArrowRightCircleIcon"));
 var _ArrowDownRightCircleIcon = _interopRequireDefault(require("./ArrowDownRightCircleIcon"));
 var _ArrowDownCircleIcon = _interopRequireDefault(require("./ArrowDownCircleIcon"));
@@ -1578,6 +2934,10 @@ var _ChevronRightCircleIcon = _interopRequireDefault(require("./ChevronRightCirc
 var _ChevronDownCircleIcon = _interopRequireDefault(require("./ChevronDownCircleIcon"));
 var _ChevronLeftCircleIcon = _interopRequireDefault(require("./ChevronLeftCircleIcon"));
 var _ChevronUpCircleIcon = _interopRequireDefault(require("./ChevronUpCircleIcon"));
+var _CaretRightIcon = _interopRequireDefault(require("./CaretRightIcon"));
+var _CaretDownIcon = _interopRequireDefault(require("./CaretDownIcon"));
+var _CaretLeftIcon = _interopRequireDefault(require("./CaretLeftIcon"));
+var _CaretUpIcon = _interopRequireDefault(require("./CaretUpIcon"));
 var _TagCrossIcon = _interopRequireDefault(require("./TagCrossIcon"));
 var _TagPlusIcon = _interopRequireDefault(require("./TagPlusIcon"));
 var _TagMinusIcon = _interopRequireDefault(require("./TagMinusIcon"));
@@ -1593,6 +2953,9 @@ var _DashboardPlusIcon = _interopRequireDefault(require("./DashboardPlusIcon"));
 var _DashboardMinusIcon = _interopRequireDefault(require("./DashboardMinusIcon"));
 var _DashboardCrossIcon = _interopRequireDefault(require("./DashboardCrossIcon"));
 var _DashboardCheckIcon = _interopRequireDefault(require("./DashboardCheckIcon"));
+var _ChartBIcon = _interopRequireDefault(require("./ChartBIcon"));
+var _ChartUpBIcon = _interopRequireDefault(require("./ChartUpBIcon"));
+var _ChartDownBIcon = _interopRequireDefault(require("./ChartDownBIcon"));
 var _ChartUpIcon = _interopRequireDefault(require("./ChartUpIcon"));
 var _ChartIcon = _interopRequireDefault(require("./ChartIcon"));
 var _ChartDownIcon = _interopRequireDefault(require("./ChartDownIcon"));
@@ -1610,6 +2973,7 @@ var _BatteryDeadIcon = _interopRequireDefault(require("./BatteryDeadIcon"));
 var _BatteryEmptyIcon = _interopRequireDefault(require("./BatteryEmptyIcon"));
 var _BatteryChargingIcon = _interopRequireDefault(require("./BatteryChargingIcon"));
 var _AeroplaneIcon = _interopRequireDefault(require("./AeroplaneIcon"));
+var _RocketIcon = _interopRequireDefault(require("./RocketIcon"));
 var _ServerIcon = _interopRequireDefault(require("./ServerIcon"));
 var _Server2Icon = _interopRequireDefault(require("./Server2Icon"));
 var _MessageRoundIcon = _interopRequireDefault(require("./MessageRoundIcon"));
@@ -1628,6 +2992,14 @@ var _MessageIcon = _interopRequireDefault(require("./MessageIcon"));
 var _MessageCheckIcon = _interopRequireDefault(require("./MessageCheckIcon"));
 var _InboxIcon = _interopRequireDefault(require("./InboxIcon"));
 var _InboxNotificationIcon = _interopRequireDefault(require("./InboxNotificationIcon"));
+var _InboxStarIcon = _interopRequireDefault(require("./InboxStarIcon"));
+var _InboxPlusIcon = _interopRequireDefault(require("./InboxPlusIcon"));
+var _InboxMinusIcon = _interopRequireDefault(require("./InboxMinusIcon"));
+var _InboxUploadIcon = _interopRequireDefault(require("./InboxUploadIcon"));
+var _InboxDownloadIcon = _interopRequireDefault(require("./InboxDownloadIcon"));
+var _InboxCheckIcon = _interopRequireDefault(require("./InboxCheckIcon"));
+var _InboxCrossIcon = _interopRequireDefault(require("./InboxCrossIcon"));
+var _InboxQuestionMarkIcon = _interopRequireDefault(require("./InboxQuestionMarkIcon"));
 var _MessageConversationIcon = _interopRequireDefault(require("./MessageConversationIcon"));
 var _PhoneIcon = _interopRequireDefault(require("./PhoneIcon"));
 var _PhoneCallIcon = _interopRequireDefault(require("./PhoneCallIcon"));
@@ -1640,8 +3012,11 @@ var _PhoneMinusIcon = _interopRequireDefault(require("./PhoneMinusIcon"));
 var _PhoneMissedCallIcon = _interopRequireDefault(require("./PhoneMissedCallIcon"));
 var _PhoneRingingLoudIcon = _interopRequireDefault(require("./PhoneRingingLoudIcon"));
 var _VoicemailIcon = _interopRequireDefault(require("./VoicemailIcon"));
+var _DialerKeypadIcon = _interopRequireDefault(require("./DialerKeypadIcon"));
+var _SimCardIcon = _interopRequireDefault(require("./SimCardIcon"));
+var _MemoryCardIcon = _interopRequireDefault(require("./MemoryCardIcon"));
 var _ImageIcon = _interopRequireDefault(require("./ImageIcon"));
-var _VolumeMuteIcon = _interopRequireDefault(require("./VolumeMuteIcon"));
+var _GifIcon = _interopRequireDefault(require("./GifIcon"));
 var _PlayIcon = _interopRequireDefault(require("./PlayIcon"));
 var _PauseIcon = _interopRequireDefault(require("./PauseIcon"));
 var _StopIcon = _interopRequireDefault(require("./StopIcon"));
@@ -1652,16 +3027,62 @@ var _NextIcon = _interopRequireDefault(require("./NextIcon"));
 var _VolumeUpIcon = _interopRequireDefault(require("./VolumeUpIcon"));
 var _VolumeDownIcon = _interopRequireDefault(require("./VolumeDownIcon"));
 var _VolumeZeroIcon = _interopRequireDefault(require("./VolumeZeroIcon"));
+var _VolumeMuteIcon = _interopRequireDefault(require("./VolumeMuteIcon"));
 var _MobilePhoneIcon = _interopRequireDefault(require("./MobilePhoneIcon"));
 var _MicrophoneIcon = _interopRequireDefault(require("./MicrophoneIcon"));
+var _MicrophoneMuteIcon = _interopRequireDefault(require("./MicrophoneMuteIcon"));
 var _HeaphoneIcon = _interopRequireDefault(require("./HeaphoneIcon"));
+var _HeadphoneMuteIcon = _interopRequireDefault(require("./HeadphoneMuteIcon"));
 var _MouseIcon = _interopRequireDefault(require("./MouseIcon"));
+var _Mouse2Icon = _interopRequireDefault(require("./Mouse2Icon"));
+var _CompactDiskIcon = _interopRequireDefault(require("./CompactDiskIcon"));
+var _ChipIcon = _interopRequireDefault(require("./ChipIcon"));
 var _KeyboardIcon = _interopRequireDefault(require("./KeyboardIcon"));
 var _TelevisionIcon = _interopRequireDefault(require("./TelevisionIcon"));
+var _TelevisionPlusIcon = _interopRequireDefault(require("./TelevisionPlusIcon"));
+var _TelevisionMinusIcon = _interopRequireDefault(require("./TelevisionMinusIcon"));
+var _TelevisionUploadIcon = _interopRequireDefault(require("./TelevisionUploadIcon"));
+var _TelevisionDownloadIcon = _interopRequireDefault(require("./TelevisionDownloadIcon"));
+var _TelevisionCheckIcon = _interopRequireDefault(require("./TelevisionCheckIcon"));
+var _TelevisionCrossIcon = _interopRequireDefault(require("./TelevisionCrossIcon"));
+var _TelevisionQuestionMarkIcon = _interopRequireDefault(require("./TelevisionQuestionMarkIcon"));
 var _LaptopIcon = _interopRequireDefault(require("./LaptopIcon"));
 var _CameraIcon = _interopRequireDefault(require("./CameraIcon"));
-var _VideoCameraIcon = _interopRequireDefault(require("./VideoCameraIcon"));
+var _Camera2Icon = _interopRequireDefault(require("./Camera2Icon"));
+var _FocusIcon = _interopRequireDefault(require("./FocusIcon"));
+var _LensIcon = _interopRequireDefault(require("./LensIcon"));
+var _VideoIcon = _interopRequireDefault(require("./VideoIcon"));
+var _VideoPlusIcon = _interopRequireDefault(require("./VideoPlusIcon"));
+var _VideoMinusIcon = _interopRequireDefault(require("./VideoMinusIcon"));
+var _VideoUploadIcon = _interopRequireDefault(require("./VideoUploadIcon"));
+var _VideoDownloadIcon = _interopRequireDefault(require("./VideoDownloadIcon"));
+var _VideoCheckIcon = _interopRequireDefault(require("./VideoCheckIcon"));
+var _VideoCrossIcon = _interopRequireDefault(require("./VideoCrossIcon"));
+var _VideoQuestionMarkIcon = _interopRequireDefault(require("./VideoQuestionMarkIcon"));
+var _MediaReelHIcon = _interopRequireDefault(require("./MediaReelHIcon"));
+var _MediaReelVIcon = _interopRequireDefault(require("./MediaReelVIcon"));
+var _VideoPlayerIcon = _interopRequireDefault(require("./VideoPlayerIcon"));
+var _ScreencastIcon = _interopRequireDefault(require("./ScreencastIcon"));
+var _BroadcastIcon = _interopRequireDefault(require("./BroadcastIcon"));
+var _PlaylistIcon = _interopRequireDefault(require("./PlaylistIcon"));
+var _PlaylistAlternateIcon = _interopRequireDefault(require("./PlaylistAlternateIcon"));
+var _PreviewIcon = _interopRequireDefault(require("./PreviewIcon"));
+var _PreviewCircleIcon = _interopRequireDefault(require("./PreviewCircleIcon"));
+var _MusicIcon = _interopRequireDefault(require("./MusicIcon"));
+var _MusicAlternateIcon = _interopRequireDefault(require("./MusicAlternateIcon"));
+var _MusicCircleIcon = _interopRequireDefault(require("./MusicCircleIcon"));
+var _MusicSquareIcon = _interopRequireDefault(require("./MusicSquareIcon"));
 var _PrinterIcon = _interopRequireDefault(require("./PrinterIcon"));
+var _RobotIcon = _interopRequireDefault(require("./RobotIcon"));
+var _RobotAppreciateIcon = _interopRequireDefault(require("./RobotAppreciateIcon"));
+var _RobotSadIcon = _interopRequireDefault(require("./RobotSadIcon"));
+var _RobotHappyIcon = _interopRequireDefault(require("./RobotHappyIcon"));
+var _RobotDeadIcon = _interopRequireDefault(require("./RobotDeadIcon"));
+var _RobotWinkIcon = _interopRequireDefault(require("./RobotWinkIcon"));
+var _RobotUwuIcon = _interopRequireDefault(require("./RobotUwuIcon"));
+var _RobotScreenIcon = _interopRequireDefault(require("./RobotScreenIcon"));
+var _GameboyIcon = _interopRequireDefault(require("./GameboyIcon"));
+var _CalculatorIcon = _interopRequireDefault(require("./CalculatorIcon"));
 var _LayoutUpLeftIcon = _interopRequireDefault(require("./LayoutUpLeftIcon"));
 var _LayoutUpRightIcon = _interopRequireDefault(require("./LayoutUpRightIcon"));
 var _LayoutCenterIcon = _interopRequireDefault(require("./LayoutCenterIcon"));

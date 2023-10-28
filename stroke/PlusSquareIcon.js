@@ -24,17 +24,19 @@ const PlusSquareIcon = _ref => {
     "stroke-linecap": "round",
     "stroke-linejoin": "round"
   }), /*#__PURE__*/_react.default.createElement("path", {
-    d: "M17.1389 12H6.86111",
+    d: "M17.1391 12H6.86133",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-linecap": "round",
     "stroke-linejoin": "round"
-  }), /*#__PURE__*/_react.default.createElement("path", {
-    d: "M16.5839 2.75H7.41611C4.83909 2.75 2.75 4.83909 2.75 7.41611V16.5839C2.75 19.1609 4.83909 21.25 7.41611 21.25H16.5839C19.1609 21.25 21.25 19.1609 21.25 16.5839V7.41611C21.25 4.83909 19.1609 2.75 16.5839 2.75Z",
+  }), /*#__PURE__*/_react.default.createElement("rect", {
+    x: "2.75",
+    y: "2.75",
+    width: "18.5",
+    height: "18.5",
+    rx: "6",
     stroke: "currentColor",
-    "stroke-width": "1.5",
-    "stroke-linecap": "round",
-    "stroke-linejoin": "round"
+    "stroke-width": "1.5"
   }));
 };
 var _default = PlusSquareIcon;

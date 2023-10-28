@@ -18,23 +18,25 @@ const ArrowUpLeftSquareIcon = _ref => {
     xmlns: "http://www.w3.org/2000/svg",
     className: className
   }, /*#__PURE__*/_react.default.createElement("path", {
-    d: "M8.18695 8.18689L15.8131 15.813",
+    d: "M8.18701 8.18701L15.8131 15.8131",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-miterlimit": "10",
     "stroke-linecap": "round"
   }), /*#__PURE__*/_react.default.createElement("path", {
-    d: "M15.1553 7.88892H8.91666C8.64407 7.88892 8.38266 7.9972 8.18991 8.18994C7.99717 8.38269 7.88888 8.64412 7.88888 8.91669V15.1553",
+    d: "M15.1551 7.88892H8.91645C8.64386 7.88892 8.38245 7.9972 8.1897 8.18994C7.99696 8.38269 7.88867 8.64412 7.88867 8.91669V15.1553",
     stroke: "currentColor",
     "stroke-width": "1.5",
     "stroke-linecap": "round",
     "stroke-linejoin": "round"
-  }), /*#__PURE__*/_react.default.createElement("path", {
-    d: "M16.5839 2.75H7.41611C4.83909 2.75 2.75 4.83909 2.75 7.41611V16.5839C2.75 19.1609 4.83909 21.25 7.41611 21.25H16.5839C19.1609 21.25 21.25 19.1609 21.25 16.5839V7.41611C21.25 4.83909 19.1609 2.75 16.5839 2.75Z",
+  }), /*#__PURE__*/_react.default.createElement("rect", {
+    x: "2.75",
+    y: "2.75",
+    width: "18.5",
+    height: "18.5",
+    rx: "6",
     stroke: "currentColor",
-    "stroke-width": "1.5",
-    "stroke-linecap": "round",
-    "stroke-linejoin": "round"
+    "stroke-width": "1.5"
   }));
 };
 var _default = ArrowUpLeftSquareIcon;
